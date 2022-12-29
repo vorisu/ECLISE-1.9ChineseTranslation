@@ -61,7 +61,7 @@
 							"QuestCategory": "LostCity",
 							"UniqueID": "FINISH_LOSTCITY_PT1",
 							"QuestName": "完成失落之城第一部分",
-							"Description": "帐篷准备好了吗？完成2-10!",
+							"Description": "准备好你的帐篷了吗？完成2-10!",
 							"LevelName": "lostcity10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_LOST_CITY",
 							"CompletionAwards": {
