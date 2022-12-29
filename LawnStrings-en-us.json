@@ -699,7 +699,7 @@
 					"EIGHTIES_DANGER_ROOM_NAME": "僵尸最佳专辑",
 					"EIGHTIES_LEVEL_NAME": "Neon Mixtape Tour - 第 {LEVEL_NUMBER} 天",
 					"ELECTRICBLUEBERRY": "电击蓝莓",
-					"ELECTRICBLUEBERRY_DESCRIPTION": "{KEYWORD}弱点: {STAT}最后攻击巨人就是\r\n\r\n{FLAVOR}Electric Blueberry prides herself on being eclectic as well as electric. \"I like to keep 'em guessing,\" she says. \"A zombie should always be like, 'Whoa, didn't see that coming,' when it's disintegrated.\"",
+					"ELECTRICBLUEBERRY_DESCRIPTION": "{KEYWORD}弱点: {STAT}最后攻击巨人僵尸\r\n\r\n{FLAVOR}Electric Blueberry prides herself on being eclectic as well as electric. \"I like to keep 'em guessing,\" she says. \"A zombie should always be like, 'Whoa, didn't see that coming,' when it's disintegrated.\"",
 					"ELECTRICBLUEBERRY_DESCRIPTION_HEADER": "电击蓝莓制造随机电击僵尸的雷云, 优先攻击特殊僵尸.",
 					"ELECTRICBLUEBERRY_TOOLTIP": "随机电击僵尸，优先电击特殊僵尸",
 					"ELECTRICCURRANT": "电流醋栗",
