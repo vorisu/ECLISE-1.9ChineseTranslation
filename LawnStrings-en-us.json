@@ -741,7 +741,7 @@
 					"EPIC_QUEST_TITLE": "Epic Quest Placeholder YEAHHHH!",
 					"ESCAPEROOT": "逃脱树根",
 					"ESCAPEROOT_DESCRIPTION": "{KEYWORD}用法: {STAT} tap Escape Root and another plant to swap them\r\n\r\n{FLAVOR}The other plants put on a big surprise party for Escape Root last week, but he did his thing and suddenly it was a surprise party... FOR THEM!",
-					"ESCAPEROOT_DESCRIPTION_HEADER": "Escape Roots can be swapped with other plants that are in danger.",
+					"ESCAPEROOT_DESCRIPTION_HEADER": "点击逃脱树根和另一个植物以交换这两个植物的位置.",
 					"ESCAPEROOT_TOOLTIP": "Can be swapped with other plants",
 					"EXIT_DANGER_ROOM_BODY": "Are you sure that you want to leave? Doing so will end your game.",
 					"EXIT_DANGER_ROOM_HEADER": "Exit Endless Zone?",
