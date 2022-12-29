@@ -837,7 +837,7 @@
 					"HOTDATE_DESCRIPTION_HEADER": "Hot Dates instantly attract nearby zombies from adjacent lanes to its lane.",
 					"HOTDATE_TOOLTIP": "Instantly attracts zombies to its lane",
 					"HOTPOTATO": "热土豆",
-					"HOTPOTATO_DESCRIPTION": "{KEYWORD}特点: {STAT}对经过的僵尸造成持续2.5S的伤害\r\n{KEYWORD}特点: {STAT}可以种在水上\r\n\r\n{FLAVOR}How does Hot Potato stay so positive and even-peeled all the time? Yoga, that's how. She never misses a class. Also, regular meditation. It's the only way she can handle the hard work of fighting zombies, day in and day out, without melting down.",
+					"HOTPOTATO_DESCRIPTION": "{KEYWORD}特点: {STAT}对经过的僵尸造成持续2.5秒的伤害\r\n{KEYWORD}特点: {STAT}可以种在水上\r\n\r\n{FLAVOR}How does Hot Potato stay so positive and even-peeled all the time? Yoga, that's how. She never misses a class. Also, regular meditation. It's the only way she can handle the hard work of fighting zombies, day in and day out, without melting down.",
 					"HOTPOTATO_DESCRIPTION_HEADER": "Hot Potatoes melt the ice blocks and octopi they're planted on.",
 					"HOTPOTATO_TOOLTIP": "融化冰块和章鱼",
 					"HOURS": "h",
