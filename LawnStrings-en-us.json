@@ -417,7 +417,7 @@
 					"COLOR_STAT": "^ff0000^",
 					"CONCEALMINT": "暗影叶",
 					"CONCEALMINT_DESCRIPTION": "{KEYWORD}特点: {STAT}可以种在水上\r\n\r\n{FLAVOR}Shadow Leaf ducks ninja-like out of the party without telling a soul. \"Where's Shadow Leaf?\" ask the other plants. They don't know. Nobody does. Shadow Leaf is just that sneaky.\r\n",
-					"CONCEALMINT_DESCRIPTION_HEADER": "Shadow Leaves instantly power up shadow plants in a large area.",
+					"CONCEALMINT_DESCRIPTION_HEADER": "暗影叶可以暂时强化大范围的暗影植物.",
 					"CONCEALMINT_TOOLTIP": "强化暗影植物",
 					"CONTAINMINT": "Contain-mint",
 					"CONTAINMINT_DESCRIPTION": "{FLAVOR}\"Go easy, there,\" says Contain-mint. \"No need to be in such a rush all the time. Movement is totally overrated.\"",
