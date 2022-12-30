@@ -2639,7 +2639,7 @@
 					"NARRATIVE_LOSTCITY5_INTRO_3": "{SAY:winnie}我们不得不注意细节.",
 					"NARRATIVE_LOSTCITY5_INTRO_4": "{SAY:winnie}铲子将会是你最好的朋友.",
 					"NARRATIVE_LOSTCITY5_INTRO_5": "{SAY:winnie}对快速僵尸快速处理，我们会渡过难关.", 
-"NARRATIVE_LOSTCITY6_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}历史文献表明,这里的人崇尚太阳，阳光应该充足.",
+					"NARRATIVE_LOSTCITY6_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}历史文献表明,这里的人崇尚太阳，阳光应该充足.",
 					"NARRATIVE_LOSTCITY6_INTRO_2": "{SAY:winnie}我建议我们在那些金色的砖上种植植物.",
 					"NARRATIVE_LOSTCITY6_INTRO_3": "{SAY:winnie}只要上面有植物，它们就应该会不断地产生阳光.",
 					"NARRATIVE_LOSTCITY6_INTRO_4": "{NPC_ENTER:zombossicon}{SAY:zombossicon}很抱歉打断你的探险，失落之城的冒险者.",
