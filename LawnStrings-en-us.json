@@ -1271,7 +1271,7 @@
 					"NARRATIVE_COWBOY9_INTRO_3": "{SAY:crazydave}等等! 这是僵王的诡计吗?",
 					"NARRATIVE_COWBOY9_INTRO_4": "{SAY:winnie}那我们不得不智取他和他的僵尸大军们了.",
 					"NARRATIVE_COWBOY10_OUTRO_1": "{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}疯狂戴夫, 是时候收拾好出发了.",
-					"NARRATIVE_COWBOY10_OUTRO_2": "{NPC_ENTER:crazydave}{特点14}让我们向着日落驶去吧!",
+					"NARRATIVE_COWBOY10_OUTRO_2": "{NPC_ENTER:crazydave}{SPECIAL14}让我们向着日落驶去吧!",
 					"NARRATIVE_COWBOY10_OUTRO_3": "{EXCITED:winnie}你认为未来会把我们带到哪里?",
 					"NARRATIVE_COWBOY10_OUTRO_4": "{PLAYFUL:crazydave}你说未来吗?",
 					"NARRATIVE_COWBOY10_OUTRO_5": "{SAY:crazydave}我们应该再看看我的时空地图.",
