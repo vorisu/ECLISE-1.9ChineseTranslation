@@ -102,7 +102,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Rasta", "Rasta", "Rasta", "Rasta", "Rasta", "Rasta" ],
+				"ShortDescriptions": [ "塔法里帽", "塔法里帽", "塔法里帽", "塔法里帽", "塔法里帽", "塔法里帽" ],
 				"Sku": "com.popcap.pvz2.android.bloomerang_custom_02"
 			}
 		}, {
@@ -123,7 +123,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt" ],
+				"ShortDescriptions": [ "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_01"
 			}
 		}, {
@@ -144,7 +144,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Sweatband", "Sweatband", "Sweatband", "Sweatband", "Sweatband", "Sweatband" ],
+				"ShortDescriptions": [ "防汗带", "防汗带", "防汗带", "防汗带", "防汗带", "防汗带" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_01"
 			}
 		}, {
@@ -165,7 +165,7 @@
 				"PriceGems": "10",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats" ],
+				"ShortDescriptions": [ "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽" ],
 				"Sku": "com.popcap.pvz2.android.cherry_bomb_custom_02"
 			}
 		}, {
@@ -207,7 +207,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Fez", "Fez", "Fez", "Fez", "Fez", "Fez" ],
+				"ShortDescriptions": [ "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽" ],
 				"Sku": "com.popcap.pvz2.android.gravebuster_custom_02"
 			}
 		}, {
@@ -228,7 +228,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs" ],
+				"ShortDescriptions": [ "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_01"
 			}
 		}, {
@@ -270,7 +270,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana" ],
+				"ShortDescriptions": [ "红头巾", "红头巾", "红头巾", "红头巾", "红头巾", "红头巾" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_02"
 			}
 		}, {
@@ -354,7 +354,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask" ],
+				"ShortDescriptions": [ "英雄面具", "英雄面具", "英雄面具", "英雄面具", "英雄面具", "英雄面具" ],
 				"Sku": "com.popcap.pvz2.android.potatomine_custom_01"
 			}
 		}, {
@@ -396,7 +396,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet" ],
+				"ShortDescriptions": [ "维京头盔", "维京头盔", "维京头盔", "维京头盔", "维京头盔", "维京头盔" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_01"
 			}
 		}, {
@@ -417,7 +417,7 @@
 				"PriceGems": "20",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior" ],
+				"ShortDescriptions": [ "冰冷战士", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior" ],
 				"Sku": "com.popcap.pvz2.android.snowpea_custom_02"
 			}
 		}, {
@@ -438,7 +438,7 @@
 				"PriceGems": "10",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Ratchet", "Ratchet", "Ratchet", "Ratchet", "Ratchet", "Ratchet" ],
+				"ShortDescriptions": [ "火焰头盔", "Ratchet", "Ratchet", "Ratchet", "Ratchet", "Ratchet" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_02"
 			}
 		}, {
@@ -480,7 +480,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Fairy", "Fairy", "Fairy", "Fairy", "Fairy", "Fairy" ],
+				"ShortDescriptions": [ "仙女", "Fairy", "Fairy", "Fairy", "Fairy", "Fairy" ],
 				"Sku": "com.popcap.pvz2.android.spikeweed_custom_01"
 			}
 		}, {
@@ -627,7 +627,7 @@
 				"PriceGems": "5",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Goggles", "Goggles", "Goggles", "Goggles", "Goggles", "Goggles" ],
+				"ShortDescriptions": [ "护目镜", "Goggles", "Goggles", "Goggles", "Goggles", "Goggles" ],
 				"Sku": "com.popcap.pvz2.android.torchwood_custom_01"
 			}
 		}, {
@@ -816,7 +816,7 @@
 				"PriceGems": "49",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief" ],
+				"ShortDescriptions": [ "恶作剧之王", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief" ],
 				"Sku": "com.popcap.pvz2.android.starfruit_custom_01"
 			}
 		}, {
