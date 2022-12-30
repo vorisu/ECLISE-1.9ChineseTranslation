@@ -29,7 +29,7 @@
 							"QuestCategory": "Egypt",
 							"UniqueID": "FINISH_EGYPT_PT1",
 							"QuestName": "完成神秘埃及第一部分",
-							"Description": "We're just rolling in! 完成 1-10!",
+							"Description": "我们只是在前进! 完成 1-10!",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_EGYPT",
 							"LevelName": "egypt10",
 							"CompletionAwards": {
@@ -61,7 +61,7 @@
 							"QuestCategory": "LostCity",
 							"UniqueID": "FINISH_LOSTCITY_PT1",
 							"QuestName": "完成失落之城第一部分",
-							"Description": "准备好你的帐篷了吗？完成2-10!",
+							"Description": "准备好你的营地了吗？完成2-10!",
 							"LevelName": "lostcity10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_LOST_CITY",
 							"CompletionAwards": {
@@ -96,7 +96,7 @@
 							"QuestCategory": "Dark",
 							"UniqueID": "FINISH_DARK_PT1",
 							"QuestName": "完成黑暗时代第一部分",
-							"Description": "Ruler of a Medieval village! 完成3-10!",
+							"Description": "中世纪村庄的统治者! 完成3-10!",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_DARKAGES",
 							"LevelName": "dark10",
 							"CompletionAwards": {
@@ -131,7 +131,7 @@
 							"QuestCategory": "Pirate",
 							"UniqueID": "FINISH_PIRATE_PT1",
 							"QuestName": "完成海盗港湾第一部分",
-							"Description": "Now we set sail! 完成4-10!",
+							"Description": "扬帆起航! 完成4-10!",
 							"LevelName": "pirate10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
 							"CompletionAwards": {
@@ -166,7 +166,7 @@
 							"QuestCategory": "IceAge",
 							"UniqueID": "FINISH_ICEAGE_PT1",
 							"QuestName": "完成冰河世界第一部分",
-							"Description": "Iceberg ahead! Do not crash!完成5-10!",
+							"Description": "前方就是冰山!不要慌张!完成5-10!",
 							"LevelName": "iceage10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_ICEAGE",
 							"CompletionAwards": {
@@ -201,7 +201,7 @@
 							"QuestCategory": "Cowboy",
 							"UniqueID": "FINISH_COWBOY_PT1",
 							"QuestName": "完成狂野西部第一部分",
-							"Description": "Show'em the sharpest shooter's skills!完成6-10!",
+							"Description": "给他们看看最犀利的射手技术!完成6-10!",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
 							"LevelName": "cowboy10",
 							"CompletionAwards": {
@@ -236,7 +236,7 @@
 							"QuestCategory": "Beach",
 							"UniqueID": "FINISH_BEACH_PT1",
 							"QuestName": "完成巨浪沙滩第一部分",
-							"Description": "Don't let your survival instinct be drowned out!完成7-10!",
+							"Description": "不要丧失你的生存本能!完成7-10!",
 							"LevelName": "beach10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_BEACH",
 							"CompletionAwards": {
@@ -271,7 +271,7 @@
 							"QuestCategory": "Dino",
 							"UniqueID": "FINISH_DINO_PT1",
 							"QuestName": "完成恐龙危机第一部分",
-							"Description": "Gotta be tough to stand against the primal!完成8-10!",
+							"Description": "坚强地对抗那些野蛮人!完成8-10!",
 							"LevelName": "dino10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_DINO",
 							"CompletionAwards": {
@@ -306,7 +306,7 @@
 							"QuestCategory": "Future",
 							"UniqueID": "FINISH_FUTURE_PT1",
 							"QuestName": "完成遥远未来第一部分",
-							"Description": "Totally predictable. 完成9-10!",
+							"Description": "完全在意料之中. 完成9-10!",
 							"LevelName": "future10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_FUTURE",
 							"CompletionAwards": {
@@ -341,7 +341,7 @@
 							"QuestCategory": "Eighties",
 							"UniqueID": "FINISH_EIGHTIES_PT1",
 							"QuestName": "完成摇滚年代第一部分",
-							"Description": "Do you have the talent to beat the stage?完成10-10!",
+							"Description": "你有在舞台上表演的天赋吗?完成10-10!",
 							"LevelName": "eighties10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_EIGHTIES",
 							"CompletionAwards": {
@@ -362,7 +362,7 @@
 							"QuestCategory": "Egypt",
 							"UniqueID": "FINISH_EGYPT_PT2",
 							"QuestName": "完成神秘埃及第二部分",
-							"Description": "Let's conquer the power of sand!完成11-10!",
+							"Description": "让我们战胜沙子的力量!完成11-10!",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_EGYPT",
 							"LevelName": "egypt20",
 							"CompletionAwards": {
