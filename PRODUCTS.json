@@ -4,7 +4,7 @@
 			"aliases": [ "com.popcap.pvz2.android.gameupgrade.seedslot2" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy." ],
+				"Descriptions": [ "这个增益只能租用.不能买.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy.", "This only exists so rent option exists. Do not buy." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "8槽",
@@ -18,14 +18,14 @@
 				"PriceGems": "10000000",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot" ],
+				"ShortDescriptions": [ "8槽", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot" ],
 				"Sku": "com.popcap.pvz2.android.gameupgrade.seedslot2"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.plant.imitater.eclise" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!" ],
+				"Descriptions": [ "让你能在一关里带两个一样的植物!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!", "Brings two of the same plant into a level!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "模仿者",
@@ -39,20 +39,20 @@
 				"PriceGems": "399",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Imitater", "Imitater", "Imitater", "Imitater", "Imitater", "Imitater" ],
+				"ShortDescriptions": [ "模仿者", "Imitater", "Imitater", "Imitater", "Imitater", "Imitater" ],
 				"Sku": "com.popcap.pvz2.android.plant.imitater.eclise"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.plant.powerlily.eclise" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!" ],
+				"Descriptions": [ "产生一个叶绿素!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!", "Creates one Plant Food!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "Power Lily",
 				"NoTooltip": false,
 				"ObjectCount": 1,
-				"ObjectItem": "能量花",
+				"ObjectItem": "powerlily",
 				"ObjectType": "plant",
 				"OneTimePurchaseVersion": 0,
 				"Price": 0,
@@ -60,14 +60,14 @@
 				"PriceGems": "399",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Power Lily", "Power Lily", "Power Lily", "Power Lily", "Power Lily", "Power Lily" ],
+				"ShortDescriptions": [ "能量花", "Power Lily", "Power Lily", "Power Lily", "Power Lily", "Power Lily" ],
 				"Sku": "com.popcap.pvz2.android.plant.powerlily.eclise"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.plant.marigold_lawn.eclise" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration." ],
+				"Descriptions": [ "毫无卵用!这个金盏花只能用来装饰.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration.", "For flexing purpose! This Marigold is for decoration." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "金盏花",
@@ -81,7 +81,7 @@
 				"PriceGems": "999",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold" ],
+				"ShortDescriptions": [ "金盏花", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold" ],
 				"Sku": "com.popcap.pvz2.android.plant.marigold_lawn.eclise"
 			}
 		}, {
