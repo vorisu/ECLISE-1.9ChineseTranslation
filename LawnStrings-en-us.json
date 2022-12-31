@@ -1391,7 +1391,7 @@
 					"NARRATIVE_DARK1_INTRO_4": "{PLAYFUL:winnie}的确,调查结果显示,一场瘟疫横扫了这个时代.",
 					"NARRATIVE_DARK1_INTRO_5": "{SAY:winnie}并且,阳光不再从天上落下.",
 					"NARRATIVE_DARK1_INTRO_6": "{SAY:winnie}小喷菇将是一个很好的朋友,因为它是免费的.",
-					"NARRATIVE_DARK1_INTRO_7": "{特点2:crazydave}那太疯.......狂了!!!",
+					"NARRATIVE_DARK1_INTRO_7": "{SPECIAL2:crazydave}那太疯.......狂了!!!",
 					"NARRATIVE_DARK2_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}我们需要有人来使这个地方明亮!",
 					"NARRATIVE_DARK2_INTRO_2": "{EXCITED:crazydave}我明白了! 我们需要阳光菇!",
 					"NARRATIVE_DARK2_INTRO_3": "{PLAYFUL:crazydave}这些家伙不仅仅知道如何转变这黑白颠倒的时代...",
