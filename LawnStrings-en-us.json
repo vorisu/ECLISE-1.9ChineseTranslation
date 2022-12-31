@@ -2787,7 +2787,7 @@
 					"NARRATIVE_OUT_OF_CONTENT_SOON_8": "{TIRED:crazydaveicon}Really, you just don't know.",
 					"NARRATIVE_OUT_OF_CONTENT_SOON_9": "{SAY:crazydaveicon}But if you do find my pot on your lawn...",
 					"NARRATIVE_OUT_OF_CONTENT_SOON_10": "{PLAYFUL:crazydaveicon}Could you put it in the pantry?",
-				"NARRATIVE_PIRATE1_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}海盗.为什么一定要是海盗?",
+					"NARRATIVE_PIRATE1_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}海盗.为什么一定要是海盗?",
 					"NARRATIVE_PIRATE1_INTRO_2": "{SHOUT:crazydave}但是这里有海盗!我很想见识你们的鹦鹉和木制假腿!",
 					"NARRATIVE_PIRATE2_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}哗啦啦!看来这些僵尸有一些技能!",
 					"NARRATIVE_PIRATE2_INTRO_2": "{SAY:winnie}你说的对, 戴夫. 这些飞索会成群结队地出现.",
