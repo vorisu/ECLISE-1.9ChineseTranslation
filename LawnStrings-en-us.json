@@ -1557,7 +1557,7 @@
 					"NARRATIVE_DINO_NIGHT4_INTRO_5": "{SAY:winnie}别忘了这个世界也很要命, 戴夫.",
 					"NARRATIVE_DINO_NIGHT5_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}在地震中保护一棵植物... 有点意思.",
 					"NARRATIVE_DINO_NIGHT5_INTRO_2": "{EXCITED:crazydave}植物会到处乱飞! 万一这个甜薯飞到了最前面怎么办???",
-					"NARRATIVE_DINO_NIGHT5_INTRO_3": "{特点2:crazydave}我们要适应地震! 随机应变! 克服困难!",
+					"NARRATIVE_DINO_NIGHT5_INTRO_3": "{SPECIAL2:crazydave}我们要适应地震! 随机应变! 克服困难!",
 					"NARRATIVE_DINO_NIGHT5_INTRO_4": "{SAY:crazydave}是时候加入战场了!",
 					"NARRATIVE_DINO_NIGHT5_INTRO_5": "{NPC_EXIT:crazydave}{SAY:winnie}... 他刚才是不是... 不管了.",
 					"NARRATIVE_DINO_NIGHT8_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}有什么东西正在隆隆作响...",
