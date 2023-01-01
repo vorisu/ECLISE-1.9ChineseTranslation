@@ -1457,7 +1457,7 @@
 					"NARRATIVE_DARK18_INTRO_2": "{SAY:winnie}恐怕又是一场微操考验.",
 					"NARRATIVE_DARK18_INTRO_3": "{SAY:winnie}尽管我们现在有叶绿素用... 恐怕还是会很难.",
 					"NARRATIVE_DARK18_INTRO_4": "{EXCITED:我们能做到! 我可是疯狂戴夫啊! ",
-					"NARRATIVE_DARK18_INTRO_5": "{特点2:crazydave}天生我材, 必是为这些疯狂之事而来!",
+					"NARRATIVE_DARK18_INTRO_5": "{SPECIAL2:crazydave}天生我材, 必是为这些疯狂之事而来!",
 					"NARRATIVE_DARK20_INTRO_1": "{NPC_ENTER:zombossicon}{SAY}别来无恙, 愚者!",
 					"NARRATIVE_DARK20_INTRO_2": "{SAY:zombossicon}尔侪已为瓮中之鳖!",
 					"NARRATIVE_DARK20_INTRO_3": "{SAY:zombossicon}得汝之脑已如探囊取物, 愿今日可一劳永逸耳!",
