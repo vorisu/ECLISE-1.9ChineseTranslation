@@ -84,7 +84,7 @@
 			"objdata": {
 				"TypeName": "BRIANNE_14",
 				"Font": "BrianneTod",
-				"Size": 14,
+				"Size": 9,
 				"Color": "Black"
 			}
 		}, {
@@ -211,7 +211,7 @@
 			"objdata": {
 				"TypeName": "BLACK_16_BROWN",
 				"Font": "PvZ2 Regular",
-				"Size": 7,
+				"Size": 11,
 				"Color": "Brown"
 			}
 		}, {
@@ -219,7 +219,7 @@
 			"objdata": {
 				"TypeName": "BLACK_18",
 				"Font": "PvZ2 Regular",
-				"Size": 9,
+				"Size": 13,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_16"
 			}
@@ -239,7 +239,7 @@
 			"objdata": {
 				"TypeName": "BLACK_19_SHADED",
 				"Font": "PvZ2 Regular",
-				"Size": 10,
+				"Size": 14,
 				"Color": "Black",
 				"Effect": "Shadow",
 				"EffectColor": "Black",
@@ -283,7 +283,7 @@
 			"objdata": {
 				"TypeName": "BLACK_20",
 				"Font": "PvZ2 Regular",
-				"Size": 11,
+				"Size": 15,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_18"
 			}
@@ -292,7 +292,7 @@
 			"objdata": {
 				"TypeName": "BLACK_22",
 				"Font": "PvZ2 Regular",
-				"Size": 13,
+				"Size": 16,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_20"
 			}
@@ -301,7 +301,7 @@
 			"objdata": {
 				"TypeName": "BLACK_22_SHADED",
 				"Font": "PvZ2 Regular",
-				"Size": 13,
+				"Size": 16,
 				"Color": "Black",
 				"Effect": "Shadow",
 				"EffectColor": "Black",
@@ -323,7 +323,7 @@
 			"objdata": {
 				"TypeName": "BLACK_22_THICKOUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 13,
+				"Size": 16,
 				"Color": "Black",
 				"Effect": "Thick_Outline",
 				"EffectColor": "Black",
@@ -345,7 +345,7 @@
 			"objdata": {
 				"TypeName": "BLACK_24",
 				"Font": "PvZ2 Regular",
-				"Size": 14,
+				"Size": 18,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_22"
 			}
@@ -354,7 +354,7 @@
 			"objdata": {
 				"TypeName": "BLACK_24_SHADED",
 				"Font": "PvZ2 Regular",
-				"Size": 14,
+				"Size": 18,
 				"Color": "Black",
 				"Effect": "Shadow",
 				"EffectColor": "Black",
@@ -376,7 +376,7 @@
 			"objdata": {
 				"TypeName": "BLACK_24_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 14,
+				"Size": 18,
 				"Color": "Black",
 				"Effect": "Outline_Lite_Shadow",
 				"EffectColor": "Black",
@@ -473,7 +473,7 @@
 			"objdata": {
 				"TypeName": "BLACK_28",
 				"Font": "PvZ2 Regular",
-				"Size": 10,
+				"Size": 22,
 				"Color": "White",
 				"FontIfShrunk": "BLACK_26"
 			}
@@ -513,7 +513,7 @@
 			"objdata": {
 				"TypeName": "BLACK_32_SHADED",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 24,
 				"Color": "White",
 				"Effect": "Shadow",
 				"EffectColor": "Black",
@@ -524,7 +524,7 @@
 			"objdata": {
 				"TypeName": "BLACK_32_INVERSE_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 24,
 				"Color": "Black",
 				"Effect": "Inverse_Outline",
 				"EffectColor": "White"
@@ -534,7 +534,7 @@
 			"objdata": {
 				"TypeName": "BLACK_32_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 24,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
 				"EffectColor": "Black",
@@ -545,7 +545,7 @@
 			"objdata": {
 				"TypeName": "BLACK_32_THICKOUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 24,
 				"Color": "White",
 				"Effect": "Thick_Outline",
 				"EffectColor": "Black",
@@ -556,7 +556,7 @@
 			"objdata": {
 				"TypeName": "BLACK_32_HARDSHADOW",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 24,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
 				"EffectColor": "Black",
@@ -567,7 +567,7 @@
 			"objdata": {
 				"TypeName": "BLACK_36",
 				"Font": "PvZ2 Regular",
-				"Size": 21,
+				"Size": 27,
 				"Color": "BLACK_32"
 			}
 		}, {
@@ -575,7 +575,7 @@
 			"objdata": {
 				"TypeName": "BLACK_36_THICKOUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 21,
+				"Size": 27,
 				"Color": "White",
 				"Effect": "Thick_Outline",
 				"EffectColor": "Black",
@@ -586,7 +586,7 @@
 			"objdata": {
 				"TypeName": "BLACK_38_HARDSHADOW",
 				"Font": "PvZ2 Regular",
-				"Size": 22,
+				"Size": 28,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
 				"EffectColor": "Black",
@@ -597,7 +597,7 @@
 			"objdata": {
 				"TypeName": "BLACK_40_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 30,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
 				"EffectColor": "Black",
@@ -608,7 +608,7 @@
 			"objdata": {
 				"TypeName": "BLACK_40_GLOW",
 				"Font": "PvZ2 Regular",
-				"Size": 19,
+				"Size": 30,
 				"Color": "White",
 				"Effect": "Glow",
 				"EffectColor": "Black"
@@ -618,7 +618,7 @@
 			"objdata": {
 				"TypeName": "BLACK_40_THICKOUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 15,
+				"Size": 30,
 				"Color": "White",
 				"Effect": "Thick_Outline",
 				"EffectColor": "Black",
@@ -629,7 +629,7 @@
 			"objdata": {
 				"TypeName": "BLACK_46_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 29,
+				"Size": 36,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
 				"EffectColor": "Black",
@@ -640,7 +640,7 @@
 			"objdata": {
 				"TypeName": "BLACK_46_HARDSHADOW",
 				"Font": "PvZ2 Regular",
-				"Size": 29,
+				"Size": 36,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
 				"EffectColor": "Black",
@@ -651,7 +651,7 @@
 			"objdata": {
 				"TypeName": "BLACK_60_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 31.5,
+				"Size": 45,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
 				"EffectColor": "Black",
@@ -662,7 +662,7 @@
 			"objdata": {
 				"TypeName": "BLACK_60_HARDSHADOW",
 				"Font": "PvZ2 Regular",
-				"Size": 31.5,
+				"Size": 45,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
 				"EffectColor": "Black",
@@ -673,7 +673,7 @@
 			"objdata": {
 				"TypeName": "BLACK_70_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 35,
+				"Size": 50,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
 				"EffectColor": "Black",
@@ -684,7 +684,7 @@
 			"objdata": {
 				"TypeName": "BLACK_80_OUTLINE",
 				"Font": "PvZ2 Regular",
-				"Size": 38.5,
+				"Size": 55,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
 				"EffectColor": "Black",
@@ -695,7 +695,7 @@
 			"objdata": {
 				"TypeName": "BLACK_60",
 				"Font": "PvZ2 Regular",
-				"Size": 70,
+				"Size": 100,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
 				"EffectColor": "Black",
