@@ -108,7 +108,7 @@
 			"objdata": {
 				"TypeName": "TERROR_50",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 60,
+				"Size": 75,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror",
@@ -119,7 +119,7 @@
 			"objdata": {
 				"TypeName": "TERROR_40",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 42,
+				"Size": 53,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror_Smaller"
@@ -129,7 +129,7 @@
 			"objdata": {
 				"TypeName": "TERROR_25",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 17,
+				"Size": 22,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror_Tiny"
@@ -139,7 +139,7 @@
 			"objdata": {
 				"TypeName": "TERROR_25_BLACKOUTLINE",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 17,
+				"Size": 22,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Outline_Lite_Shadow"
@@ -149,7 +149,7 @@
 			"objdata": {
 				"TypeName": "TERROR_32_BLACKOUTLINE",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 25,
+				"Size": 32,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror_Black_Outline",
@@ -160,7 +160,7 @@
 			"objdata": {
 				"TypeName": "TERROR_36_BLACKOUTLINE",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 29,
+				"Size": 36,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror_Black_Outline",
@@ -171,7 +171,7 @@
 			"objdata": {
 				"TypeName": "TERROR_40_BLACKOUTLINE",
 				"Font": "MonsterFonts-HouseofTerror",
-				"Size": 42,
+				"Size": 53,
 				"Color": "White",
 				"EffectColor": "White",
 				"Effect": "Horror_Black_Outline",
