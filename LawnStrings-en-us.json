@@ -2192,7 +2192,6 @@
 					"NARRATIVE_EPICQUEST_BANANA_6_OUTRO_2": "{SAY:winnie}是时候回去了,用户戴夫.",
 					"NARRATIVE_EPICQUEST_BANANA_6_OUTRO_3": "{SPECIAL2:crazydave}我知道了更多关于那疯狂的香蕉!真棒!",
 					"NARRATIVE_EPICQUEST_BANANA_6_OUTRO_4": "{NPC_EXIT:crazydave}{SAY:winnie}上帝保佑我们...",
-
 					"NARRATIVE_EPICQUEST_SPRINGBEAN_1_INTRO_1": "{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}哦不... 弹簧豆疯了!",
 					"NARRATIVE_EPICQUEST_SPRINGBEAN_1_INTRO_2": "{SAY:crazydave}像我一样?",
 					"NARRATIVE_EPICQUEST_SPRINGBEAN_1_INTRO_3": "{SAY:winnie}比你还疯! 它们创造了一整个弹簧豆史诗任务!",
@@ -4773,20 +4772,4 @@
 					"ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION": "{KEYWORD}特点: {STAT}speakers do passive damage (except to ground plants and Phat Beet) and send out shockwave attacks\r\n\r\n{FLAVOR}In another world, in another time, Dr. Zomboss would receive the bounty of enthusiastic applause that is his due. Not here and now, though. Nope.",
 					"ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION_HEADER": "An intimate evening with some of Dr. Zomboss' most recent and painful explorations.",
 					"ZOMBIE_ZOMBOSSMECH_FUTURE": "Zombot Tomorrow-tron",
-					"ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION": "{KEYWORD}特点: {STAT}missile attacks can destroy Power Tiles\r\n\r\n{FLAVOR}When Dr. Zomboss is nestled into the comfy folds of his futuristic cerebral control pod he almost finds it hard to be evil. Of course once he sees a lawn full of happy plants that puts him right back where he needs to be, hungry and evil.",
-					"ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION_HEADER": "The Power Tile crushing creation from the Far Future.",
-					"ZOMBIE_ZOMBOSSMECH_ICEAGE": "Zombot Tuskmaster 10,000 BC",
-					"ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION": "{FLAVOR}Dr. Zomboss was real impressed with himself when he came up with the idea to build a weaponized woolly mammoth with the power to blast snow and ice out of its mechanical trunk. But what Dr. Zomboss didn't realize until it was too late: He's allergic to mammoth fur. Now he has to load up on allergy medication every time he wants to take the darn thing out for a spin.",
-					"ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION_HEADER": "The mammoth mech with an ice blast from the past.",
-					"ZOMBIE_ZOMBOSSMECH_LOSTCITY": "Zombot Aerostatic Gondola",
-					"ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION": "{KEYWORD}特点: {STAT} drops zombies and bags o' sand\r\n\r\n{FLAVOR}After repeated failures with variously robotic engines of destruction, Dr. Zomboss decided to go with a kinder, more eco-friendly lighter-than-air option to sow disaster and discord.",
-					"ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION_HEADER": "The floating fortress from the skies above.",
-					"ZOMBIE_ZOMBOSSMECH_PIRATE": "Zombot Plank Walker",
-					"ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION": "{KEYWORD}特点: {STAT}cannon can rain down imps past your defenses\r\n\r\n{FLAVOR}Hoist the mizzenmast, batten down the hatches! 15 zombies on a dead man's boat, yo ho ho and a bucket of brains! Dr. Zomboss had to admit he was really getting into this whole pirate thing. Though he never thought he'd be on a boat on a boat.",
-					"ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION_HEADER": "The plant plundering privateer of the high seas."
-				}
-			}
-		}
-	],
-	"version": 1
-}
+					"ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION": "{KEYWORD}特点: {STAT}missile attacks can destroy Power Tiles\r\n\r\n{FLAVOR}When Dr. Zomboss is nestled into the comfy folds of his futuristic cerebral control pod he almost finds it hard to be evil. Of course once he sees a lawn full of happy plants that puts him righ
