@@ -7,7 +7,7 @@
 				"Descriptions": [ "这个增益只能租用 不能买", "这个增益只能租用 不能买", "这个增益只能租用 不能买", "这个增益只能租用 不能买", "这个增益只能租用 不能买", "这个增益只能租用 不能买" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
-				"Name": "8槽",
+				"Name": "第八个卡槽",
 				"NoTooltip": false,
 				"ObjectCount": 1,
 				"ObjectItem": "seedslot2",
@@ -6093,7 +6093,7 @@
 			"aliases": [ "com.popcap.pvz2.android.coins1" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!" ],
+				"Descriptions": [ "把钻石换成硬币!", "把钻石换成硬币!", "把钻石换成硬币!", "把钻石换成硬币!", "把钻石换成硬币!", "把钻石换成硬币!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "1000硬币",
@@ -6107,7 +6107,7 @@
 				"PriceGems": "1",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!" ],
+				"ShortDescriptions": [ "一千硬币!", "一千硬币!", "一千硬币!", "一千硬币!", "一千硬币!", "一千硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins1"
 			}
 		}, {
@@ -6128,14 +6128,14 @@
 				"PriceGems": "10",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "10000 Coins!", "10000 Coins!", "10000 Coins!", "10000 Coins!", "10000 Coins!", "10000 Coins!" ],
+				"ShortDescriptions": [ "一万硬币!", "一万硬币!", "一万硬币!", "一万硬币!", "一万硬币!", "一万硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins2"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.coins3" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "Hah.", "Hah.", "Hah.", "Hah.", "Hah.", "Hah." ],
+				"Descriptions": [ "哈啊", "哈啊", "哈啊", "哈啊", "哈啊", "哈啊" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "100000硬币",
@@ -6149,14 +6149,14 @@
 				"PriceGems": "100",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "100000 Coins!", "100000 Coins!", "100000 Coins!", "100000 Coins!", "100000 Coins!", "100000 Coins!" ],
+				"ShortDescriptions": [ "100000硬币!", "100000硬币!", "100000硬币!", "100000硬币!", "100000硬币!", "100000硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins3"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems1" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "1钻石",
@@ -6170,14 +6170,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!" ],
+				"ShortDescriptions": [ "1个钻石!", "1个钻石!", "1个钻石!", "1个钻石!", "1个钻石!", "1个钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems1"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems2" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "32钻石",
@@ -6191,14 +6191,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!" ],
+				"ShortDescriptions": [ "32钻石!", "32钻石!", "32钻石!", "32钻石!", "32钻石!", "32钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems2"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems3" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "68钻石",
@@ -6212,14 +6212,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!" ],
+				"ShortDescriptions": [ "68钻石!", "68钻石!", "68钻石!", "68钻石!", "68钻石!", "68钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems3"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems4" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "149钻石",
@@ -6233,14 +6233,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!" ],
+				"ShortDescriptions": [ "149钻石!", "149钻石!", "149钻石!", "149钻石!", "149钻石!", "149钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems4"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems5" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "246钻石",
@@ -6254,14 +6254,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!" ],
+				"ShortDescriptions": [ "246钻石!", "246钻石!", "246钻石!", "246钻石!", "246钻石!", "246钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems5"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems7" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "499钻石",
@@ -6275,14 +6275,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!" ],
+				"ShortDescriptions": [ "499钻石!", "499钻石!", "499钻石!", "499钻石!", "499钻石!", "499钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems7"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.gems7" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!", "From coins to gems!" ],
+				"Descriptions": [ "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!", "把硬币换成钻石!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "499钻石",
@@ -6296,14 +6296,14 @@
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!" ],
+				"ShortDescriptions": [ "499钻石!", "499钻石!", "499钻石!", "499钻石!", "499钻石!", "499钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems7"
 			}
 		}, {
 			"aliases": [ "com.popcap.pvz2.android.sprouts1" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "Sprout store is closed.", "Sprout store is closed.", "Sprout store is closed.", "Sprout store is closed.", "Sprout store is closed.", "Sprout store is closed." ],
+				"Descriptions": [ "种子商店已关闭.", "种子商店已关闭.", "种子商店已关闭.", "种子商店已关闭.", "种子商店已关闭.", "种子商店已关闭." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "Sprout Message",
@@ -6312,12 +6312,12 @@
 				"ObjectItem": "sprout",
 				"ObjectType": "sprout",
 				"OneTimePurchaseVersion": 0,
-				"Price": 99.99000000000001,
+				"Price": "99",
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "CLOSED", "CLOSED", "CLOSED", "CLOSED", "CLOSED", "CLOSED" ],
+				"ShortDescriptions": [ "关闭", "关闭", "关闭", "关闭", "关闭", "关闭" ],
 				"Sku": "com.popcap.pvz2.android.sprouts1"
 			}
 		} ],
