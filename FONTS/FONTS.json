@@ -181,7 +181,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_16",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 11,
 				"Color": "Black"
 			}
@@ -189,7 +189,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_16_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 11,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -200,7 +200,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_16_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 11,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -210,7 +210,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_16_BROWN",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 11,
 				"Color": "Brown"
 			}
@@ -218,7 +218,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_18",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 13,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_16"
@@ -227,7 +227,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_18_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 13,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -238,7 +238,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_19_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 14,
 				"Color": "Black",
 				"Effect": "Shadow",
@@ -249,7 +249,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_19_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 14,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -260,7 +260,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_19_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 14,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -271,7 +271,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_19_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 14,
 				"Color": "White",
 				"Effect": "Outline",
@@ -282,7 +282,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_20",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 15,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_18"
@@ -291,7 +291,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_22",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 16,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_20"
@@ -300,7 +300,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_22_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 16,
 				"Color": "Black",
 				"Effect": "Shadow",
@@ -311,7 +311,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_22_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 16,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -322,7 +322,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_22_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 16,
 				"Color": "Black",
 				"Effect": "Thick_Outline",
@@ -333,7 +333,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_22_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 16,
 				"Color": "White",
 				"Effect": "Outline",
@@ -344,7 +344,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "Black",
 				"FontIfShrunk": "BLACK_22"
@@ -353,7 +353,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "Black",
 				"Effect": "Shadow",
@@ -364,7 +364,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -375,7 +375,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "Black",
 				"Effect": "Outline_Lite_Shadow",
@@ -386,7 +386,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_NAVYOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "White",
 				"Effect": "Outline_Navy_Shadow",
@@ -397,7 +397,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_REDOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "White",
 				"Effect": "Outline_Red_Shadow",
@@ -408,7 +408,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_24_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 18,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -419,7 +419,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_26",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 20,
 				"Color": "White",
 				"FontIfShrunk": "BLACK_24"
@@ -428,7 +428,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_26_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 20,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
@@ -439,7 +439,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_26_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 20,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -450,7 +450,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_26_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 20,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -461,7 +461,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_26_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 20,
 				"Color": "White",
 				"Effect": "Shadow",
@@ -472,7 +472,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_28",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 22,
 				"Color": "White",
 				"FontIfShrunk": "BLACK_26"
@@ -481,7 +481,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_28_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 22,
 				"Color": "White",
 				"Effect": "Shadow",
@@ -492,7 +492,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_28_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 22,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
@@ -503,7 +503,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "White",
 				"FontIfShrunk": "BLACK_28"
@@ -512,7 +512,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32_SHADED",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "White",
 				"Effect": "Shadow",
@@ -523,7 +523,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32_INVERSE_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "Black",
 				"Effect": "Inverse_Outline",
@@ -533,7 +533,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
@@ -544,7 +544,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -555,7 +555,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_32_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 24,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -566,7 +566,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_36",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 27,
 				"Color": "BLACK_32"
 			}
@@ -574,7 +574,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_36_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 27,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -585,7 +585,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_38_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 28,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -596,7 +596,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_40_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 30,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
@@ -607,7 +607,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_40_GLOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 30,
 				"Color": "White",
 				"Effect": "Glow",
@@ -617,7 +617,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_40_THICKOUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 30,
 				"Color": "White",
 				"Effect": "Thick_Outline",
@@ -628,7 +628,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_46_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 36,
 				"Color": "White",
 				"Effect": "Outline_Lite_Shadow",
@@ -639,7 +639,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_46_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 36,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -650,7 +650,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_60_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 45,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
@@ -661,7 +661,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_60_HARDSHADOW",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 45,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
@@ -672,7 +672,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_70_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 50,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
@@ -683,7 +683,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_80_OUTLINE",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 55,
 				"Color": "White",
 				"Effect": "Horror_Black_Outline",
@@ -694,7 +694,7 @@
 			"objclass": "PrimeText_PotentialTypeface",
 			"objdata": {
 				"TypeName": "BLACK_60",
-				"Font": "PvZ2 Regular",
+				"Font": "fbUsv8C5el Regular",
 				"Size": 100,
 				"Color": "White",
 				"Effect": "Hard_Shadow",
