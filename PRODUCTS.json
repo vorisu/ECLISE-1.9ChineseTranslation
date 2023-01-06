@@ -18,7 +18,7 @@
 				"PriceGems": "10000000",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "8槽", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot", "8th Seed Slot" ],
+				"ShortDescriptions": [ "第八个卡槽", "第八个卡槽", "第八个卡槽", "第八个卡槽", "第八个卡槽", "第八个卡槽" ],
 				"Sku": "com.popcap.pvz2.android.gameupgrade.seedslot2"
 			}
 		}, {
@@ -39,7 +39,7 @@
 				"PriceGems": "399",
 				"PriceMints": "0",
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "模仿者", "Imitater", "Imitater", "Imitater", "Imitater", "Imitater" ],
+				"ShortDescriptions": [ "模仿者", "模仿者", "模仿者", "模仿者", "模仿者", "模仿者" ],
 				"Sku": "com.popcap.pvz2.android.plant.imitater.eclise"
 			}
 		}, {
@@ -6096,7 +6096,7 @@
 				"Descriptions": [ "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!", "From gems to coins!" ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
-				"Name": "1000金币",
+				"Name": "1000硬币",
 				"NoTooltip": false,
 				"ObjectCount": 1000,
 				"ObjectItem": "coin",
@@ -6117,7 +6117,7 @@
 				"Descriptions": [ "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
-				"Name": "10000金币",
+				"Name": "10000硬币",
 				"NoTooltip": false,
 				"ObjectCount": 10000,
 				"ObjectItem": "coin",
@@ -6138,7 +6138,7 @@
 				"Descriptions": [ "Hah.", "Hah.", "Hah.", "Hah.", "Hah.", "Hah." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
-				"Name": "100000金币",
+				"Name": "100000硬币",
 				"NoTooltip": false,
 				"ObjectCount": 100000,
 				"ObjectItem": "coin",
