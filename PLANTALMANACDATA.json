@@ -3,7 +3,7 @@
 	"objects": [
 		{
 			"aliases": [
-				"sunflower",
+				"sunflower"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -15,7 +15,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -24,7 +24,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -33,7 +33,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -42,7 +42,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -51,15 +51,15 @@
 						"StatType": "sunprod",
 						"StatValue": "sunprod_normal",
 						"TypeStringID": "[STAT_SUNPROD]",
-						"ValueStringID": "24",
-					},
+						"ValueStringID": "24"
+					}
 				],
-				"TypeName": "sunflower",
-			},
+				"TypeName": "sunflower"
+			}
 		},
 		{
 			"aliases": [
-				"peashooter",
+				"peashooter"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -71,7 +71,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -80,7 +80,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -89,7 +89,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -98,7 +98,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -107,7 +107,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -116,15 +116,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "peashooter",
-			},
+				"TypeName": "peashooter"
+			}
 		},
 		{
 			"aliases": [
-				"wallnut",
+				"wallnut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -136,7 +136,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -145,7 +145,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -154,7 +154,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -163,15 +163,15 @@
 						"StatType": "armor",
 						"StatValue": "armor2",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "wallnut",
-			},
+				"TypeName": "wallnut"
+			}
 		},
 		{
 			"aliases": [
-				"intensivecarrot",
+				"intensivecarrot"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -183,7 +183,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -192,7 +192,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -201,7 +201,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -210,15 +210,15 @@
 						"StatType": "Special",
 						"StatValue": "special_restorelife",
 						"TypeStringID": "[STAT_HP_RESTORED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "intensivecarrot",
-			},
+				"TypeName": "intensivecarrot"
+			}
 		},
 		{
 			"aliases": [
-				"bloomerang",
+				"bloomerang"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -230,7 +230,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -239,7 +239,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -248,7 +248,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -257,7 +257,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -266,7 +266,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -275,15 +275,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "bloomerang",
-			},
+				"TypeName": "bloomerang"
+			}
 		},
 		{
 			"aliases": [
-				"cabbagepult",
+				"cabbagepult"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -295,7 +295,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -304,7 +304,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -313,7 +313,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -322,7 +322,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -331,7 +331,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -340,15 +340,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "cabbagepult",
-			},
+				"TypeName": "cabbagepult"
+			}
 		},
 		{
 			"aliases": [
-				"potatomine",
+				"potatomine"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -360,7 +360,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -369,7 +369,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -378,7 +378,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -387,7 +387,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -396,7 +396,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -405,7 +405,7 @@
 						"StatType": "armingtime",
 						"StatValue": "armingtime0",
 						"TypeStringID": "[STAT_ARMINGTIME]",
-						"ValueStringID": "[STAT_ARMINGTIME0]",
+						"ValueStringID": "[STAT_ARMINGTIME0]"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -414,15 +414,15 @@
 						"StatType": "area",
 						"StatValue": "square",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_SQUARE]",
-					},
+						"ValueStringID": "[STAT_AREA_SQUARE]"
+					}
 				],
-				"TypeName": "potatomine",
-			},
+				"TypeName": "potatomine"
+			}
 		},
 		{
 			"aliases": [
-				"iceburg",
+				"iceburg"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -434,7 +434,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -443,7 +443,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -452,7 +452,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -461,7 +461,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_FREEZE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -470,15 +470,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_CHILL]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "iceburg",
-			},
+				"TypeName": "iceburg"
+			}
 		},
 		{
 			"aliases": [
-				"gravebuster",
+				"gravebuster"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -490,7 +490,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -499,7 +499,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -508,7 +508,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -517,7 +517,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -526,7 +526,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_BUSTSPEED]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -535,15 +535,15 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "gravebuster",
-			},
+				"TypeName": "gravebuster"
+			}
 		},
 		{
 			"aliases": [
-				"bonkchoy",
+				"bonkchoy"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -555,7 +555,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -564,7 +564,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -573,7 +573,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -582,7 +582,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -591,7 +591,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -600,7 +600,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "0.33",
+						"ValueStringID": "0.33"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -609,15 +609,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1.5 Tiles",
-					},
+						"ValueStringID": "[STAT_RANGE_1_5TILES]"
+					}
 				],
-				"TypeName": "bonkchoy",
-			},
+				"TypeName": "bonkchoy"
+			}
 		},
 		{
 			"aliases": [
-				"repeater",
+				"repeater"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -629,7 +629,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -638,7 +638,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -647,7 +647,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -656,7 +656,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -665,7 +665,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -674,15 +674,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "repeater",
-			},
+				"TypeName": "repeater"
+			}
 		},
 		{
 			"aliases": [
-				"twinsunflower",
+				"twinsunflower"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -694,7 +694,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -703,7 +703,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -712,7 +712,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -721,7 +721,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -730,15 +730,15 @@
 						"StatType": "sunprod",
 						"StatValue": "sunprod_double",
 						"TypeStringID": "[STAT_SUNPROD]",
-						"ValueStringID": "24",
-					},
+						"ValueStringID": "24"
+					}
 				],
-				"TypeName": "twinsunflower",
-			},
+				"TypeName": "twinsunflower"
+			}
 		},
 		{
 			"aliases": [
-				"kernelpult",
+				"kernelpult"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -750,7 +750,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -759,7 +759,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -768,7 +768,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -777,7 +777,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -786,7 +786,7 @@
 						"StatType": "damage",
 						"StatValue": "damage1",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -795,7 +795,7 @@
 						"StatType": "damage",
 						"StatValue": "damage1",
 						"TypeStringID": "[STAT_BUTTER_DAMAGE]",
-						"ValueStringID": "40",
+						"ValueStringID": "40"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -804,15 +804,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "kernelpult",
-			},
+				"TypeName": "kernelpult"
+			}
 		},
 		{
 			"aliases": [
-				"snapdragon",
+				"snapdragon"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -824,7 +824,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -833,7 +833,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -842,7 +842,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -851,7 +851,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -860,7 +860,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -869,15 +869,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "snapdragon",
-			},
+				"TypeName": "snapdragon"
+			}
 		},
 		{
 			"aliases": [
-				"spikeweed",
+				"spikeweed"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -889,7 +889,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -898,7 +898,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -907,7 +907,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -916,7 +916,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -925,7 +925,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -934,15 +934,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "0.75",
-					},
+						"ValueStringID": "0.75"
+					}
 				],
-				"TypeName": "spikeweed",
-			},
+				"TypeName": "spikeweed"
+			}
 		},
 		{
 			"aliases": [
-				"coconutcannon",
+				"coconutcannon"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -954,7 +954,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -963,7 +963,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -972,7 +972,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -981,7 +981,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -990,7 +990,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -999,7 +999,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1008,7 +1008,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1017,15 +1017,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "3x1",
-					},
+						"ValueStringID": "3x1"
+					}
 				],
-				"TypeName": "coconutcannon",
-			},
+				"TypeName": "coconutcannon"
+			}
 		},
 		{
 			"aliases": [
-				"cherry_bomb",
+				"cherry_bomb"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1037,7 +1037,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1046,7 +1046,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1055,7 +1055,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1064,7 +1064,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1073,15 +1073,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "cherry_bomb",
-			},
+				"TypeName": "cherry_bomb"
+			}
 		},
 		{
 			"aliases": [
-				"springbean",
+				"springbean"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1093,7 +1093,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1102,7 +1102,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1111,7 +1111,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1120,7 +1120,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1129,7 +1129,7 @@
 						"StatType": "recovery",
 						"StatValue": "recovery1",
 						"TypeStringID": "[STAT_RECOVERY]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1138,15 +1138,15 @@
 						"StatType": "special",
 						"StatValue": "special_knockback",
 						"TypeStringID": "[STAT_KNOCKBACK_DISTANCE]",
-						"ValueStringID": "3.2 Tiles",
-					},
+						"ValueStringID": "[STAT_KNOCKBACK_DISTANCE_3_2_TILES]"
+					}
 				],
-				"TypeName": "springbean",
-			},
+				"TypeName": "springbean"
+			}
 		},
 		{
 			"aliases": [
-				"spikerock",
+				"spikerock"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1158,7 +1158,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1167,7 +1167,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1176,7 +1176,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1185,7 +1185,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1194,7 +1194,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1203,15 +1203,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "0.375",
-					},
+						"ValueStringID": "0.375"
+					}
 				],
-				"TypeName": "spikerock",
-			},
+				"TypeName": "spikerock"
+			}
 		},
 		{
 			"aliases": [
-				"threepeater",
+				"threepeater"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1223,7 +1223,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1232,7 +1232,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1241,7 +1241,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1250,7 +1250,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1259,7 +1259,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1268,15 +1268,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "threepeater",
-			},
+				"TypeName": "threepeater"
+			}
 		},
 		{
 			"aliases": [
-				"splitpea",
+				"splitpea"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1288,7 +1288,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1297,7 +1297,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1306,7 +1306,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1315,7 +1315,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1324,7 +1324,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_FRONT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1333,7 +1333,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_BACK_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1342,15 +1342,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "splitpea",
-			},
+				"TypeName": "splitpea"
+			}
 		},
 		{
 			"aliases": [
-				"chilibean",
+				"chilibean"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1362,7 +1362,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1371,7 +1371,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1380,7 +1380,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1389,7 +1389,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1398,15 +1398,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_STUN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "chilibean",
-			},
+				"TypeName": "chilibean"
+			}
 		},
 		{
 			"aliases": [
-				"lightningreed",
+				"lightningreed"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1418,7 +1418,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1427,7 +1427,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1436,7 +1436,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1445,7 +1445,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1454,7 +1454,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1463,7 +1463,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1472,15 +1472,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_ZOMBIES_ZAPPED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "lightningreed",
-			},
+				"TypeName": "lightningreed"
+			}
 		},
 		{
 			"aliases": [
-				"tallnut",
+				"tallnut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1492,7 +1492,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1501,7 +1501,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1510,7 +1510,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1519,15 +1519,15 @@
 						"StatType": "armor",
 						"StatValue": "armor3",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "tallnut",
-			},
+				"TypeName": "tallnut"
+			}
 		},
 		{
 			"aliases": [
-				"peapod",
+				"peapod"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1539,7 +1539,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1548,7 +1548,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1557,7 +1557,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1566,7 +1566,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1575,7 +1575,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1584,15 +1584,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "peapod",
-			},
+				"TypeName": "peapod"
+			}
 		},
 		{
 			"aliases": [
-				"melonpult",
+				"melonpult"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1604,7 +1604,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1613,7 +1613,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1622,7 +1622,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1631,7 +1631,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1640,7 +1640,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1649,7 +1649,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1658,7 +1658,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1667,15 +1667,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "melonpult",
-			},
+				"TypeName": "melonpult"
+			}
 		},
 		{
 			"aliases": [
-				"wintermelon",
+				"wintermelon"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1687,7 +1687,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1696,7 +1696,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1705,7 +1705,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1714,7 +1714,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1723,7 +1723,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1732,7 +1732,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1741,7 +1741,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1750,7 +1750,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_CHILL]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1759,15 +1759,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "wintermelon",
-			},
+				"TypeName": "wintermelon"
+			}
 		},
 		{
 			"aliases": [
-				"laser_bean",
+				"laser_bean"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1779,7 +1779,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1788,7 +1788,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1797,7 +1797,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1806,7 +1806,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1815,7 +1815,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1824,15 +1824,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "laser_bean",
-			},
+				"TypeName": "laser_bean"
+			}
 		},
 		{
 			"aliases": [
-				"blover",
+				"blover"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1844,7 +1844,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1853,7 +1853,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1862,7 +1862,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1871,15 +1871,15 @@
 						"StatType": "area",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_FULLBOARD]",
-					},
+						"ValueStringID": "[STAT_AREA_FULLBOARD]"
+					}
 				],
-				"TypeName": "blover",
-			},
+				"TypeName": "blover"
+			}
 		},
 		{
 			"aliases": [
-				"citron",
+				"citron"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1891,7 +1891,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1900,7 +1900,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1909,7 +1909,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1918,7 +1918,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1927,7 +1927,7 @@
 						"StatType": "damage",
 						"StatValue": "damage5",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1936,15 +1936,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_RELOAD_SPEED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "citron",
-			},
+				"TypeName": "citron"
+			}
 		},
 		{
 			"aliases": [
-				"empea",
+				"empea"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -1956,7 +1956,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1965,7 +1965,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -1974,7 +1974,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -1983,15 +1983,15 @@
 						"StatType": "area",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "5x5",
-					},
+						"ValueStringID": "5x5"
+					}
 				],
-				"TypeName": "empea",
-			},
+				"TypeName": "empea"
+			}
 		},
 		{
 			"aliases": [
-				"holonut",
+				"holonut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2003,7 +2003,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2012,7 +2012,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2021,7 +2021,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2030,7 +2030,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2039,7 +2039,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_REGEN_TIME_FROM_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2048,15 +2048,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_REGEN_TIME_FROM_DEATH]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "holonut",
-			},
+				"TypeName": "holonut"
+			}
 		},
 		{
 			"aliases": [
-				"magnifyinggrass",
+				"magnifyinggrass"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2068,7 +2068,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2077,7 +2077,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2086,7 +2086,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2095,7 +2095,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2104,7 +2104,7 @@
 						"StatType": "damage",
 						"StatValue": "damage5",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2113,15 +2113,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_COST_PER_SHOT]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "magnifyinggrass",
-			},
+				"TypeName": "magnifyinggrass"
+			}
 		},
 		{
 			"aliases": [
-				"powerplant",
+				"powerplant"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2133,7 +2133,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_COST_OF_FIRST_TILE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2142,7 +2142,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_COST_OF_SECOND_TILE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2151,7 +2151,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_COST_MULTIPLIER]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2160,7 +2160,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge3",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2169,15 +2169,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "powerplant",
-			},
+				"TypeName": "powerplant"
+			}
 		},
 		{
 			"aliases": [
-				"sunshroom",
+				"sunshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2189,7 +2189,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2198,7 +2198,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2207,7 +2207,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2216,7 +2216,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2225,15 +2225,15 @@
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
 						"TypeStringID": "[STAT_SUNPROD]",
-						"ValueStringID": "24",
-					},
+						"ValueStringID": "24"
+					}
 				],
-				"TypeName": "sunshroom",
-			},
+				"TypeName": "sunshroom"
+			}
 		},
 		{
 			"aliases": [
-				"puffshroom",
+				"puffshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2245,7 +2245,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2254,7 +2254,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2263,7 +2263,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2272,7 +2272,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2281,7 +2281,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2290,7 +2290,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2299,7 +2299,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_LIFETIME]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2308,15 +2308,15 @@
 						"StatType": "range",
 						"StatValue": "3tiles",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "[STAT_RANGE_3TILES]",
-					},
+						"ValueStringID": "[STAT_RANGE_3TILES]"
+					}
 				],
-				"TypeName": "puffshroom",
-			},
+				"TypeName": "puffshroom"
+			}
 		},
 		{
 			"aliases": [
-				"fumeshroom",
+				"fumeshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2328,7 +2328,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2337,7 +2337,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2346,7 +2346,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2355,7 +2355,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2364,7 +2364,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2373,7 +2373,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2382,15 +2382,15 @@
 						"StatType": "range",
 						"StatValue": "1by4",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "5 Tiles",
-					},
+						"ValueStringID": "[STAT_RANGE_5TILES]"
+					}
 				],
-				"TypeName": "fumeshroom",
-			},
+				"TypeName": "fumeshroom"
+			}
 		},
 		{
 			"aliases": [
-				"sunbean",
+				"sunbean"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2402,7 +2402,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2411,7 +2411,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2420,7 +2420,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2429,7 +2429,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SUN_PER_HP]",
-						"ValueStringID": "0.24",
+						"ValueStringID": "0.24"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2438,15 +2438,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_MAX_SUN_PRODUCED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "sunbean",
-			},
+				"TypeName": "sunbean"
+			}
 		},
 		{
 			"aliases": [
-				"magnetshroom",
+				"magnetshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2458,7 +2458,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2467,7 +2467,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2476,7 +2476,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2485,7 +2485,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2494,7 +2494,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_DECOMPOSE_TIME]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2503,7 +2503,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_WIDTH_RANGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2512,15 +2512,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_HEIGHT_RANGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "magnetshroom",
-			},
+				"TypeName": "magnetshroom"
+			}
 		},
 		{
 			"aliases": [
-				"lilypad",
+				"lilypad"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2532,7 +2532,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2541,7 +2541,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2550,7 +2550,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2559,15 +2559,15 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "lilypad",
-			},
+				"TypeName": "lilypad"
+			}
 		},
 		{
 			"aliases": [
-				"tanglekelp",
+				"tanglekelp"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2579,7 +2579,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2588,7 +2588,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2597,7 +2597,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2606,7 +2606,7 @@
 						"StatType": "damage",
 						"StatValue": "damage5",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2615,15 +2615,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_ZOMBIESDRAGGED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "tanglekelp",
-			},
+				"TypeName": "tanglekelp"
+			}
 		},
 		{
 			"aliases": [
-				"bowlingbulb",
+				"bowlingbulb"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2635,7 +2635,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2644,7 +2644,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2653,7 +2653,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2662,7 +2662,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2671,7 +2671,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_SMALL_BULB_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2680,7 +2680,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_MEDIUM_BULB_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2689,7 +2689,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_BIG_BULB_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2698,15 +2698,15 @@
 						"StatType": "special",
 						"StatValue": "variable",
 						"TypeStringID": "[STAT_BULB_REGEN_TIME]",
-						"ValueStringID": "4",
-					},
+						"ValueStringID": "4"
+					}
 				],
-				"TypeName": "bowlingbulb",
-			},
+				"TypeName": "bowlingbulb"
+			}
 		},
 		{
 			"aliases": [
-				"guacodile",
+				"guacodile"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2718,7 +2718,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2727,7 +2727,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2736,7 +2736,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2745,15 +2745,15 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE_PER_BITE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "guacodile",
-			},
+				"TypeName": "guacodile"
+			}
 		},
 		{
 			"aliases": [
-				"banana",
+				"banana"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2765,7 +2765,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2774,7 +2774,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2783,7 +2783,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2792,7 +2792,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2801,7 +2801,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2810,7 +2810,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2819,15 +2819,15 @@
 						"StatType": "area",
 						"StatValue": "tile",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "3x3",
-					},
+						"ValueStringID": "3x3"
+					}
 				],
-				"TypeName": "banana",
-			},
+				"TypeName": "banana"
+			}
 		},
 		{
 			"aliases": [
-				"hotpotato",
+				"hotpotato"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2839,7 +2839,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2848,7 +2848,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2857,7 +2857,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2866,15 +2866,15 @@
 						"StatType": "damage",
 						"StatValue": "damage1",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "hotpotato",
-			},
+				"TypeName": "hotpotato"
+			}
 		},
 		{
 			"aliases": [
-				"pepperpult",
+				"pepperpult"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2886,7 +2886,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2895,7 +2895,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2904,7 +2904,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2913,7 +2913,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2922,7 +2922,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2931,7 +2931,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2940,7 +2940,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2949,15 +2949,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "pepperpult",
-			},
+				"TypeName": "pepperpult"
+			}
 		},
 		{
 			"aliases": [
-				"chardguard",
+				"chardguard"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -2969,7 +2969,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2978,7 +2978,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -2987,7 +2987,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -2996,7 +2996,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3005,7 +3005,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3014,15 +3014,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_PUSH_PER_LEAF]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "chardguard",
-			},
+				"TypeName": "chardguard"
+			}
 		},
 		{
 			"aliases": [
-				"stunion",
+				"stunion"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3034,7 +3034,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3043,7 +3043,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3052,7 +3052,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3061,7 +3061,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3070,7 +3070,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_STUN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3079,15 +3079,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "2 Tiles",
-					},
+						"ValueStringID": "[STAT_RANGE_2TILES]"
+					}
 				],
-				"TypeName": "stunion",
-			},
+				"TypeName": "stunion"
+			}
 		},
 		{
 			"aliases": [
-				"xshot",
+				"xshot"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3099,7 +3099,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3108,7 +3108,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3117,7 +3117,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3126,7 +3126,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3135,7 +3135,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3144,15 +3144,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "xshot",
-			},
+				"TypeName": "xshot"
+			}
 		},
 		{
 			"aliases": [
-				"redstinger",
+				"redstinger"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3164,7 +3164,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3173,7 +3173,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3182,7 +3182,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3191,7 +3191,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "Variable",
+						"ValueStringID": "[STAT_TOUGHNESS_VARIABLE]"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3200,7 +3200,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3209,15 +3209,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "redstinger",
-			},
+				"TypeName": "redstinger"
+			}
 		},
 		{
 			"aliases": [
-				"akee",
+				"akee"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3229,7 +3229,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3238,7 +3238,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3247,7 +3247,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3256,7 +3256,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3265,7 +3265,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3274,7 +3274,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3283,15 +3283,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_ADDITIONAL_BOUNCES]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "akee",
-			},
+				"TypeName": "akee"
+			}
 		},
 		{
 			"aliases": [
-				"endurian",
+				"endurian"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3303,7 +3303,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3312,7 +3312,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3321,7 +3321,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3330,7 +3330,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3339,15 +3339,15 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_MELEE_DAMAGE_PER_SECOND]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "endurian",
-			},
+				"TypeName": "endurian"
+			}
 		},
 		{
 			"aliases": [
-				"stallia",
+				"stallia"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3359,7 +3359,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3368,7 +3368,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3377,7 +3377,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3386,7 +3386,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3395,7 +3395,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_STALL]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3404,7 +3404,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_KNOCKBACK]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3413,15 +3413,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "stallia",
-			},
+				"TypeName": "stallia"
+			}
 		},
 		{
 			"aliases": [
-				"goldleaf",
+				"goldleaf"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3433,7 +3433,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3442,7 +3442,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge1",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3451,15 +3451,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "goldleaf",
-			},
+				"TypeName": "goldleaf"
+			}
 		},
 		{
 			"aliases": [
-				"phatbeet",
+				"phatbeet"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3471,7 +3471,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3480,7 +3480,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3489,7 +3489,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3498,7 +3498,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3507,7 +3507,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3516,15 +3516,15 @@
 						"StatType": "range",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "phatbeet",
-			},
+				"TypeName": "phatbeet"
+			}
 		},
 		{
 			"aliases": [
-				"celerystalker",
+				"celerystalker"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3536,7 +3536,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3545,7 +3545,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3554,7 +3554,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3563,7 +3563,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3572,7 +3572,7 @@
 						"StatType": "damage",
 						"StatValue": "damage5",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3581,15 +3581,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "0.25",
-					},
+						"ValueStringID": "0.25"
+					}
 				],
-				"TypeName": "celerystalker",
-			},
+				"TypeName": "celerystalker"
+			}
 		},
 		{
 			"aliases": [
-				"thymewarp",
+				"thymewarp"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3601,7 +3601,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3610,7 +3610,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3619,15 +3619,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "thymewarp",
-			},
+				"TypeName": "thymewarp"
+			}
 		},
 		{
 			"aliases": [
-				"sporeshroom",
+				"sporeshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3639,7 +3639,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3648,7 +3648,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3657,7 +3657,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3666,7 +3666,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3675,7 +3675,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3684,15 +3684,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "sporeshroom",
-			},
+				"TypeName": "sporeshroom"
+			}
 		},
 		{
 			"aliases": [
-				"garlic",
+				"garlic"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3704,7 +3704,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3713,7 +3713,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3722,7 +3722,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3731,15 +3731,15 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "garlic",
-			},
+				"TypeName": "garlic"
+			}
 		},
 		{
 			"aliases": [
-				"primalpeashooter",
+				"primalpeashooter"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3751,7 +3751,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3760,7 +3760,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3769,7 +3769,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3778,7 +3778,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3787,7 +3787,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3796,15 +3796,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "primalpeashooter",
-			},
+				"TypeName": "primalpeashooter"
+			}
 		},
 		{
 			"aliases": [
-				"primalwallnut",
+				"primalwallnut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3816,7 +3816,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3825,7 +3825,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3834,7 +3834,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3843,15 +3843,15 @@
 						"StatType": "armor",
 						"StatValue": "armor2",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "primalwallnut",
-			},
+				"TypeName": "primalwallnut"
+			}
 		},
 		{
 			"aliases": [
-				"perfumeshroom",
+				"perfumeshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3863,7 +3863,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3872,7 +3872,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3881,15 +3881,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "perfumeshroom",
-			},
+				"TypeName": "perfumeshroom"
+			}
 		},
 		{
 			"aliases": [
-				"primalsunflower",
+				"primalsunflower"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3901,7 +3901,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3910,7 +3910,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3919,7 +3919,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3928,7 +3928,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3937,15 +3937,15 @@
 						"StatType": "sunprod",
 						"StatValue": "sunprod_large",
 						"TypeStringID": "[STAT_SUNPROD]",
-						"ValueStringID": "24",
-					},
+						"ValueStringID": "24"
+					}
 				],
-				"TypeName": "primalsunflower",
-			},
+				"TypeName": "primalsunflower"
+			}
 		},
 		{
 			"aliases": [
-				"primalpotatomine",
+				"primalpotatomine"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -3957,7 +3957,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3966,7 +3966,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -3975,7 +3975,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3984,7 +3984,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -3993,7 +3993,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4002,15 +4002,15 @@
 						"StatType": "armingtime",
 						"StatValue": "armingtime1",
 						"TypeStringID": "[STAT_ARMINGTIME]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "primalpotatomine",
-			},
+				"TypeName": "primalpotatomine"
+			}
 		},
 		{
 			"aliases": [
-				"moonflower",
+				"moonflower"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4022,7 +4022,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4031,7 +4031,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4040,7 +4040,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4049,7 +4049,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4058,7 +4058,7 @@
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
 						"TypeStringID": "[STAT_SUNPROD]",
-						"ValueStringID": "34",
+						"ValueStringID": "34"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4067,15 +4067,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_MAX_SUN_PRODUCED]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "moonflower",
-			},
+				"TypeName": "moonflower"
+			}
 		},
 		{
 			"aliases": [
-				"nightshade",
+				"nightshade"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4087,7 +4087,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4096,7 +4096,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4105,7 +4105,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4114,7 +4114,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4123,7 +4123,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4132,15 +4132,15 @@
 						"StatType": "range",
 						"StatValue": "straight",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile",
-					},
+						"ValueStringID": "1 Tile"
+					}
 				],
-				"TypeName": "nightshade",
-			},
+				"TypeName": "nightshade"
+			}
 		},
 		{
 			"aliases": [
-				"shadowshroom",
+				"shadowshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4152,7 +4152,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4161,7 +4161,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4170,7 +4170,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4179,7 +4179,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_POISON_DPS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4188,15 +4188,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_POISON_DURATION]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "shadowshroom",
-			},
+				"TypeName": "shadowshroom"
+			}
 		},
 		{
 			"aliases": [
-				"dusklobber",
+				"dusklobber"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4208,7 +4208,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4217,7 +4217,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4226,7 +4226,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4235,7 +4235,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4244,7 +4244,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4253,7 +4253,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4262,7 +4262,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4271,15 +4271,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "dusklobber",
-			},
+				"TypeName": "dusklobber"
+			}
 		},
 		{
 			"aliases": [
-				"grimrose",
+				"grimrose"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4291,7 +4291,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4300,7 +4300,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4309,7 +4309,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4318,15 +4318,15 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "grimrose",
-			},
+				"TypeName": "grimrose"
+			}
 		},
 		{
 			"aliases": [
-				"goldbloom",
+				"goldbloom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4338,7 +4338,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4347,7 +4347,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4356,15 +4356,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "goldbloom",
-			},
+				"TypeName": "goldbloom"
+			}
 		},
 		{
 			"aliases": [
-				"electriccurrant",
+				"electriccurrant"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4376,7 +4376,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4385,7 +4385,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4394,7 +4394,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4403,7 +4403,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4412,25 +4412,25 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "electriccurrant",
-			},
+				"TypeName": "electriccurrant"
+			}
 		},
 		{
 			"aliases": [
-				"marigold",
+				"marigold"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "marigold",
-			},
+				"TypeName": "marigold"
+			}
 		},
 		{
 			"aliases": [
-				"imitater",
+				"imitater"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4442,7 +4442,7 @@
 						"StatType": "recharge",
 						"StatValue": "variable",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "[STAT_VARIABLE_VARIABLE]",
+						"ValueStringID": "[STAT_VARIABLE_VARIABLE]"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4451,15 +4451,15 @@
 						"StatType": "recharge",
 						"StatValue": "variable",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "[STAT_VARIABLE_VARIABLE]",
-					},
+						"ValueStringID": "[STAT_VARIABLE_VARIABLE]"
+					}
 				],
-				"TypeName": "imitater",
-			},
+				"TypeName": "imitater"
+			}
 		},
 		{
 			"aliases": [
-				"snowpea",
+				"snowpea"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4471,7 +4471,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4480,7 +4480,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4489,7 +4489,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4498,7 +4498,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4507,7 +4507,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4516,7 +4516,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4525,15 +4525,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "snowpea",
-			},
+				"TypeName": "snowpea"
+			}
 		},
 		{
 			"aliases": [
-				"powerlily",
+				"powerlily"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4545,7 +4545,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4554,7 +4554,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4563,15 +4563,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "powerlily",
-			},
+				"TypeName": "powerlily"
+			}
 		},
 		{
 			"aliases": [
-				"squash",
+				"squash"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4583,7 +4583,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4592,7 +4592,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4601,7 +4601,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4610,7 +4610,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4619,15 +4619,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1.5 Tiles",
-					},
+						"ValueStringID": "[STAT_RANGE_1_5TILES]"
+					}
 				],
-				"TypeName": "squash",
-			},
+				"TypeName": "squash"
+			}
 		},
 		{
 			"aliases": [
-				"torchwood",
+				"torchwood"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4639,7 +4639,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4648,7 +4648,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4657,7 +4657,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4666,15 +4666,15 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "torchwood",
-			},
+				"TypeName": "torchwood"
+			}
 		},
 		{
 			"aliases": [
-				"jalapeno",
+				"jalapeno"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4686,7 +4686,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4695,7 +4695,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4704,7 +4704,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4713,15 +4713,15 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "jalapeno",
-			},
+				"TypeName": "jalapeno"
+			}
 		},
 		{
 			"aliases": [
-				"starfruit",
+				"starfruit"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4733,7 +4733,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4742,7 +4742,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4751,7 +4751,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4760,7 +4760,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4769,7 +4769,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4778,7 +4778,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4787,7 +4787,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4796,15 +4796,15 @@
 						"StatType": "range",
 						"StatValue": "5way",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "Ground",
-					},
+						"ValueStringID": "[STAT_RANGE_GROUND]"
+					}
 				],
-				"TypeName": "starfruit",
-			},
+				"TypeName": "starfruit"
+			}
 		},
 		{
 			"aliases": [
-				"hypnoshroom",
+				"hypnoshroom"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4816,7 +4816,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4825,7 +4825,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge3",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4834,15 +4834,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "hypnoshroom",
-			},
+				"TypeName": "hypnoshroom"
+			}
 		},
 		{
 			"aliases": [
-				"peanut",
+				"peanut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4854,7 +4854,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4863,7 +4863,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4872,7 +4872,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4881,7 +4881,7 @@
 						"StatType": "armor",
 						"StatValue": "armor2",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4890,7 +4890,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4899,15 +4899,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "peanut",
-			},
+				"TypeName": "peanut"
+			}
 		},
 		{
 			"aliases": [
-				"chomper",
+				"chomper"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4919,7 +4919,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4928,7 +4928,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -4937,7 +4937,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4946,7 +4946,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4955,7 +4955,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_CHEW]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4964,15 +4964,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile",
-					},
+						"ValueStringID": "1 Tile"
+					}
 				],
-				"TypeName": "chomper",
-			},
+				"TypeName": "chomper"
+			}
 		},
 		{
 			"aliases": [
-				"homingthistle",
+				"homingthistle"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -4984,7 +4984,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -4993,7 +4993,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5002,7 +5002,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5011,7 +5011,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5020,7 +5020,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5029,7 +5029,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5038,15 +5038,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "homingthistle",
-			},
+				"TypeName": "homingthistle"
+			}
 		},
 		{
 			"aliases": [
-				"ghostpepper",
+				"ghostpepper"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5058,7 +5058,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5067,7 +5067,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5076,7 +5076,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5085,7 +5085,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5094,15 +5094,15 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_HAUNT_DPS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "ghostpepper",
-			},
+				"TypeName": "ghostpepper"
+			}
 		},
 		{
 			"aliases": [
-				"sweetpotato",
+				"sweetpotato"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5114,7 +5114,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5123,7 +5123,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5132,7 +5132,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5141,15 +5141,15 @@
 						"StatType": "armor",
 						"StatValue": "armor2",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "sweetpotato",
-			},
+				"TypeName": "sweetpotato"
+			}
 		},
 		{
 			"aliases": [
-				"sapfling",
+				"sapfling"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5161,7 +5161,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5170,7 +5170,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5179,7 +5179,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5188,7 +5188,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5197,7 +5197,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5206,15 +5206,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate1",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "sapfling",
-			},
+				"TypeName": "sapfling"
+			}
 		},
 		{
 			"aliases": [
-				"hurrikale",
+				"hurrikale"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5226,7 +5226,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5235,7 +5235,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5244,7 +5244,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5253,7 +5253,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_BLOW]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5262,15 +5262,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SPECIAL_CHILL]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "hurrikale",
-			},
+				"TypeName": "hurrikale"
+			}
 		},
 		{
 			"aliases": [
-				"firepeashooter",
+				"firepeashooter"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5282,7 +5282,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5291,7 +5291,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5300,7 +5300,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5309,7 +5309,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5318,7 +5318,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5327,7 +5327,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5336,7 +5336,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5345,15 +5345,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_PLASMAPEA]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "firepeashooter",
-			},
+				"TypeName": "firepeashooter"
+			}
 		},
 		{
 			"aliases": [
-				"dandelion",
+				"dandelion"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5365,7 +5365,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5374,7 +5374,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5383,7 +5383,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5392,7 +5392,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5401,7 +5401,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5410,7 +5410,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5419,7 +5419,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5428,7 +5428,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SEED_REGENERATION_TIME]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5437,15 +5437,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "dandelion",
-			},
+				"TypeName": "dandelion"
+			}
 		},
 		{
 			"aliases": [
-				"lavaguava",
+				"lavaguava"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5457,7 +5457,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5466,7 +5466,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5475,7 +5475,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5484,15 +5484,15 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_EXPLOSION_DAMAGE]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "lavaguava",
-			},
+				"TypeName": "lavaguava"
+			}
 		},
 		{
 			"aliases": [
-				"toadstool",
+				"toadstool"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5504,7 +5504,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5513,7 +5513,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5522,7 +5522,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5531,7 +5531,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5540,7 +5540,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "35",
+						"ValueStringID": "35"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5549,7 +5549,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SUN_PRODUCTION]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5558,15 +5558,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "4 Tiles",
-					},
+						"ValueStringID": "[STAT_RANGE_4TILES]"
+					}
 				],
-				"TypeName": "toadstool",
-			},
+				"TypeName": "toadstool"
+			}
 		},
 		{
 			"aliases": [
-				"strawburst",
+				"strawburst"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5578,7 +5578,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5587,7 +5587,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5596,7 +5596,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5605,7 +5605,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5614,7 +5614,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_STAGE_1_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5623,7 +5623,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_STAGE_2_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5632,7 +5632,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_STAGE_3_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5641,15 +5641,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "Variable",
-					},
+						"ValueStringID": "[STAT_AREA_VARIANLE]"
+					}
 				],
-				"TypeName": "strawburst",
-			},
+				"TypeName": "strawburst"
+			}
 		},
 		{
 			"aliases": [
-				"cactus",
+				"cactus"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5661,7 +5661,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5670,7 +5670,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5679,7 +5679,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5688,7 +5688,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5697,7 +5697,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_SHOT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5706,7 +5706,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPIKE_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5715,15 +5715,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "cactus",
-			},
+				"TypeName": "cactus"
+			}
 		},
 		{
 			"aliases": [
-				"electricblueberry",
+				"electricblueberry"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5735,7 +5735,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5744,7 +5744,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5753,7 +5753,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5762,7 +5762,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5771,7 +5771,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5780,15 +5780,15 @@
 						"StatType": "range",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "[STAT_AREA_FULLBOARD]",
-					},
+						"ValueStringID": "[STAT_AREA_FULLBOARD]"
+					}
 				],
-				"TypeName": "electricblueberry",
-			},
+				"TypeName": "electricblueberry"
+			}
 		},
 		{
 			"aliases": [
-				"jackolantern",
+				"jackolantern"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5800,7 +5800,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5809,7 +5809,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5818,7 +5818,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5827,7 +5827,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5836,7 +5836,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5845,7 +5845,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "30",
+						"ValueStringID": "30"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5854,15 +5854,15 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_FLAME_LENGTH]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "jackolantern",
-			},
+				"TypeName": "jackolantern"
+			}
 		},
 		{
 			"aliases": [
-				"grapeshot",
+				"grapeshot"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5874,7 +5874,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5883,7 +5883,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5892,7 +5892,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5901,7 +5901,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_EXPLOSION_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5910,7 +5910,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_PROJECTILE_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5919,7 +5919,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_PROJECTILE_SPLASH_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5928,15 +5928,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "grapeshot",
-			},
+				"TypeName": "grapeshot"
+			}
 		},
 		{
 			"aliases": [
-				"coldsnapdragon",
+				"coldsnapdragon"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -5948,7 +5948,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5957,7 +5957,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -5966,7 +5966,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5975,7 +5975,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5984,7 +5984,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -5993,15 +5993,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "coldsnapdragon",
-			},
+				"TypeName": "coldsnapdragon"
+			}
 		},
 		{
 			"aliases": [
-				"shrinkingviolet",
+				"shrinkingviolet"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6013,7 +6013,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6022,7 +6022,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6031,7 +6031,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6040,15 +6040,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_DAMAGE_MULTIPLIER]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "shrinkingviolet",
-			},
+				"TypeName": "shrinkingviolet"
+			}
 		},
 		{
 			"aliases": [
-				"bloominghearts",
+				"bloominghearts"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6060,7 +6060,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6069,7 +6069,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6078,7 +6078,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6087,7 +6087,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6096,7 +6096,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6105,7 +6105,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6114,7 +6114,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate1",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6123,15 +6123,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_SQUARE]",
-					},
+						"ValueStringID": "[STAT_AREA_SQUARE]"
+					}
 				],
-				"TypeName": "bloominghearts",
-			},
+				"TypeName": "bloominghearts"
+			}
 		},
 		{
 			"aliases": [
-				"escaperoot",
+				"escaperoot"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6143,7 +6143,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6152,7 +6152,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6161,7 +6161,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6170,15 +6170,15 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "escaperoot",
-			},
+				"TypeName": "escaperoot"
+			}
 		},
 		{
 			"aliases": [
-				"explodeonut",
+				"explodeonut"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6190,7 +6190,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6199,7 +6199,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6208,7 +6208,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6217,7 +6217,7 @@
 						"StatType": "armor",
 						"StatValue": "armor2",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6226,7 +6226,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6235,25 +6235,25 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "explodeonut",
-			},
+				"TypeName": "explodeonut"
+			}
 		},
 		{
 			"aliases": [
-				"wasabiwhip",
+				"wasabiwhip"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "wasabiwhip",
-			},
+				"TypeName": "wasabiwhip"
+			}
 		},
 		{
 			"aliases": [
-				"aloe",
+				"aloe"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6265,7 +6265,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6274,7 +6274,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6283,7 +6283,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6292,7 +6292,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6301,7 +6301,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_HEAL_AMOUNT]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6310,25 +6310,25 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_HEAL_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "aloe",
-			},
+				"TypeName": "aloe"
+			}
 		},
 		{
 			"aliases": [
-				"kiwibeast",
+				"kiwibeast"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "kiwibeast",
-			},
+				"TypeName": "kiwibeast"
+			}
 		},
 		{
 			"aliases": [
-				"bombegranate",
+				"bombegranate"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6340,7 +6340,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6349,7 +6349,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6358,7 +6358,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6367,7 +6367,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_EXPLOSION_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6376,7 +6376,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SEED_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6385,15 +6385,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "bombegranate",
-			},
+				"TypeName": "bombegranate"
+			}
 		},
 		{
 			"aliases": [
-				"applemortar",
+				"applemortar"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6405,7 +6405,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6414,7 +6414,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6423,7 +6423,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6432,7 +6432,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6441,7 +6441,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6450,7 +6450,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6459,7 +6459,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6468,15 +6468,15 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_SQUARE]",
-					},
+						"ValueStringID": "[STAT_AREA_SQUARE]"
+					}
 				],
-				"TypeName": "applemortar",
-			},
+				"TypeName": "applemortar"
+			}
 		},
 		{
 			"aliases": [
-				"witchhazel",
+				"witchhazel"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6488,7 +6488,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6497,7 +6497,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6506,7 +6506,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6515,7 +6515,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6524,7 +6524,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6533,7 +6533,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6542,15 +6542,15 @@
 						"StatType": "range",
 						"StatValue": "multilane",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "[STAT_RANGE_MULTILANE]",
-					},
+						"ValueStringID": "[STAT_RANGE_MULTILANE]"
+					}
 				],
-				"TypeName": "witchhazel",
-			},
+				"TypeName": "witchhazel"
+			}
 		},
 		{
 			"aliases": [
-				"parsnip",
+				"parsnip"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6562,7 +6562,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6571,7 +6571,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6580,7 +6580,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6589,7 +6589,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6598,7 +6598,7 @@
 						"StatType": "damage",
 						"StatValue": "damage4",
 						"TypeStringID": "[STAT_MELEE_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6607,7 +6607,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "1.23",
+						"ValueStringID": "1.23"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6616,7 +6616,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_RUSH_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6625,15 +6625,15 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile",
-					},
+						"ValueStringID": "1 Tile"
+					}
 				],
-				"TypeName": "parsnip",
-			},
+				"TypeName": "parsnip"
+			}
 		},
 		{
 			"aliases": [
-				"missiletoe",
+				"missiletoe"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6645,7 +6645,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6654,7 +6654,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6663,7 +6663,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6672,7 +6672,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6681,7 +6681,7 @@
 						"StatType": "damage",
 						"StatValue": "damage6",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6690,7 +6690,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_FREEZE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6699,7 +6699,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_CHILL]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6708,7 +6708,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6717,15 +6717,15 @@
 						"StatType": "area",
 						"StatValue": "square",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_3BY3]",
-					},
+						"ValueStringID": "[STAT_AREA_3BY3]"
+					}
 				],
-				"TypeName": "missiletoe",
-			},
+				"TypeName": "missiletoe"
+			}
 		},
 		{
 			"aliases": [
-				"hotdate",
+				"hotdate"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6737,7 +6737,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6746,7 +6746,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6755,15 +6755,15 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "hotdate",
-			},
+				"TypeName": "hotdate"
+			}
 		},
 		{
 			"aliases": [
-				"caulipower",
+				"caulipower"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6775,7 +6775,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6784,7 +6784,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6793,7 +6793,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6802,7 +6802,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6811,7 +6811,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6820,15 +6820,15 @@
 						"StatType": "range",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "[STAT_AREA_FULLBOARD]",
-					},
+						"ValueStringID": "[STAT_AREA_FULLBOARD]"
+					}
 				],
-				"TypeName": "caulipower",
-			},
+				"TypeName": "caulipower"
+			}
 		},
 		{
 			"aliases": [
-				"electricpeashooter",
+				"electricpeashooter"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6840,7 +6840,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6849,7 +6849,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6858,7 +6858,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6867,7 +6867,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6876,7 +6876,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6885,7 +6885,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_ZAP_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6894,7 +6894,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_FIRERATE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6903,7 +6903,7 @@
 						"StatType": "damage",
 						"StatValue": "damage3",
 						"TypeStringID": "[STAT_ZOMBIES_ZAPPED]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6912,25 +6912,25 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_ZAP_RADIUS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "electricpeashooter",
-			},
+				"TypeName": "electricpeashooter"
+			}
 		},
 		{
 			"aliases": [
-				"solartomato",
+				"solartomato"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "solartomato",
-			},
+				"TypeName": "solartomato"
+			}
 		},
 		{
 			"aliases": [
-				"hollyknight",
+				"hollyknight"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -6942,7 +6942,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6951,7 +6951,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -6960,7 +6960,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6969,7 +6969,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6978,7 +6978,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_MELEE_DAMAGE_PER_SECOND]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6987,7 +6987,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SHOT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -6996,7 +6996,7 @@
 						"StatType": "armor",
 						"StatValue": "armor1",
 						"TypeStringID": "[STAT_LEAF_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7005,7 +7005,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_LEAF_MELEE_DAMAGE_PER_SECOND]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7014,35 +7014,35 @@
 						"StatType": "area",
 						"StatValue": "square",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_SQUARE]",
-					},
+						"ValueStringID": "[STAT_AREA_SQUARE]"
+					}
 				],
-				"TypeName": "hollyknight",
-			},
+				"TypeName": "hollyknight"
+			}
 		},
 		{
 			"aliases": [
-				"hollybarrierleaf",
+				"hollybarrierleaf"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "hollybarrierleaf",
-			},
+				"TypeName": "hollybarrierleaf"
+			}
 		},
 		{
 			"aliases": [
-				"hollybarrierleafplantfood",
+				"hollybarrierleafplantfood"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "hollybarrierleafplantfood",
-			},
+				"TypeName": "hollybarrierleafplantfood"
+			}
 		},
 		{
 			"aliases": [
-				"bombardmint",
+				"bombardmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7054,7 +7054,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7063,7 +7063,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7072,7 +7072,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7081,7 +7081,7 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_FREEZE]",
-						"ValueStringID": "12",
+						"ValueStringID": "12"
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7090,15 +7090,15 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_SPECIAL_CHILL]",
-						"ValueStringID": "20",
-					},
+						"ValueStringID": "20"
+					}
 				],
-				"TypeName": "bombardmint",
-			},
+				"TypeName": "bombardmint"
+			}
 		},
 		{
 			"aliases": [
-				"ailmint",
+				"ailmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7110,7 +7110,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7119,7 +7119,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge2",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7128,7 +7128,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7137,55 +7137,55 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "ailmint",
-			},
+				"TypeName": "ailmint"
+			}
 		},
 		{
 			"aliases": [
-				"filamint",
+				"filamint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "filamint",
-			},
+				"TypeName": "filamint"
+			}
 		},
 		{
 			"aliases": [
-				"reinforcemint",
+				"reinforcemint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "reinforcemint",
-			},
+				"TypeName": "reinforcemint"
+			}
 		},
 		{
 			"aliases": [
-				"peppermint",
+				"peppermint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "peppermint",
-			},
+				"TypeName": "peppermint"
+			}
 		},
 		{
 			"aliases": [
-				"wintermint",
+				"wintermint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "wintermint",
-			},
+				"TypeName": "wintermint"
+			}
 		},
 		{
 			"aliases": [
-				"enlightenmint",
+				"enlightenmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7197,7 +7197,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7206,7 +7206,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7215,45 +7215,45 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "enlightenmint",
-			},
+				"TypeName": "enlightenmint"
+			}
 		},
 		{
 			"aliases": [
-				"enchantmint",
+				"enchantmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "enchantmint",
-			},
+				"TypeName": "enchantmint"
+			}
 		},
 		{
 			"aliases": [
-				"containmint",
+				"containmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "containmint",
-			},
+				"TypeName": "containmint"
+			}
 		},
 		{
 			"aliases": [
-				"enforcemint",
+				"enforcemint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
 				"AlmanacDataEntries": [],
-				"TypeName": "enforcemint",
-			},
+				"TypeName": "enforcemint"
+			}
 		},
 		{
 			"aliases": [
-				"armamint",
+				"armamint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7265,7 +7265,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7274,7 +7274,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7283,7 +7283,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7292,7 +7292,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7301,7 +7301,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_DAMAGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7310,7 +7310,7 @@
 						"StatType": "damage",
 						"StatValue": "damage2",
 						"TypeStringID": "[STAT_SPECIAL_SPLASH]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7319,15 +7319,15 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
-					},
+						"ValueStringID": ""
+					}
 				],
-				"TypeName": "armamint",
-			},
+				"TypeName": "armamint"
+			}
 		},
 		{
 			"aliases": [
-				"concealmint",
+				"concealmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7339,7 +7339,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "[MISSING INFO]",
+						"ValueStringID": "[MISSING INFO]"
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7348,7 +7348,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7357,7 +7357,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7366,7 +7366,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_LIFE_TIME]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7375,15 +7375,15 @@
 						"StatType": "area",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "7x7",
-					},
+						"ValueStringID": "7x7"
+					}
 				],
-				"TypeName": "concealmint",
-			},
+				"TypeName": "concealmint"
+			}
 		},
 		{
 			"aliases": [
-				"spearmint",
+				"spearmint"
 			],
 			"objclass": "PlantAlmanacData",
 			"objdata": {
@@ -7395,7 +7395,7 @@
 						"StatType": "suncost",
 						"StatValue": "suncost0",
 						"TypeStringID": "[STAT_SUNCOST]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7404,7 +7404,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_RECHARGE]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": 0,
@@ -7413,7 +7413,7 @@
 						"StatType": "recharge",
 						"StatValue": "recharge0",
 						"TypeStringID": "[STAT_STARTING_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7422,7 +7422,7 @@
 						"StatType": "armor",
 						"StatValue": "armor0",
 						"TypeStringID": "[STAT_TOUGHNESS]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7431,7 +7431,7 @@
 						"StatType": "firerate",
 						"StatValue": "firerate0",
 						"TypeStringID": "[STAT_SHOT_COOLDOWN]",
-						"ValueStringID": "",
+						"ValueStringID": ""
 					},
 					{
 						"LevelToUnlock": "0",
@@ -7440,12 +7440,12 @@
 						"StatType": "damage",
 						"StatValue": "damage0",
 						"TypeStringID": "[STAT_CHILL_DURATION]",
-						"ValueStringID": "0.95",
-					},
+						"ValueStringID": "0.95"
+					}
 				],
-				"TypeName": "spearmint",
-			},
-		},
+				"TypeName": "spearmint"
+			}
+		}
 	],
-	"version": 1,
+	"version": 1
 }
