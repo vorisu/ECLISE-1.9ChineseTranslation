@@ -6073,7 +6073,7 @@
 			"aliases": [ "com.popcap.pvz2.android.pinata.peashooter.consume" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "Can only be bought during the store tutorial.", "Can only be bought during the store tutorial.", "Can only be bought during the store tutorial.", "Can only be bought during the store tutorial.", "Can only be bought during the store tutorial.", "Can only be bought during the store tutorial." ],
+				"Descriptions": [ "只能在商店的教程中购买.", "只能在商店的教程中购买.", "只能在商店的教程中购买.", "只能在商店的教程中购买.", "只能在商店的教程中购买.", "只能在商店的教程中购买." ],
 				"IsOneTimePurchase": false,
 				"Name": "教程皮纳塔",
 				"ObjectCount": 1,
@@ -6086,7 +6086,7 @@
 				"PriceMints": "0",
 				"NASellID": 0,
 				"ROWSellID": 0,
-				"ShortDescriptions": [ "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata" ],
+				"ShortDescriptions": [ "因硬编码而无法移除的皮纳塔.", "因硬编码而无法移除的皮纳塔.", "因硬编码而无法移除的皮纳塔.", "因硬编码而无法移除的皮纳塔.", "因硬编码而无法移除的皮纳塔.", "因硬编码而无法移除的皮纳塔." ],
 				"Sku": "com.popcap.pvz2.android.pinata.peashooter.consume"
 			}
 		}, {
@@ -6114,7 +6114,7 @@
 			"aliases": [ "com.popcap.pvz2.android.coins2" ],
 			"objclass": "StoreProductProps",
 			"objdata": {
-				"Descriptions": [ "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get.", "This ratio will be the only option you get." ],
+				"Descriptions": [ "这个兑换比例将是你获得硬币的唯一选择.", "这个兑换比例将是你获得硬币的唯一选择.", "这个兑换比例将是你获得硬币的唯一选择.", "这个兑换比例将是你获得硬币的唯一选择.", "这个兑换比例将是你获得硬币的唯一选择.", "这个兑换比例将是你获得硬币的唯一选择." ],
 				"IsOneTimePurchase": false,
 				"NASellID": 0,
 				"Name": "10000硬币",
