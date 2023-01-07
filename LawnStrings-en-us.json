@@ -3614,7 +3614,7 @@
 					"STAT_MAX_SUN_PRODUCED": "最大阳光产量",
 					"STAT_MEDIUM_BULB_DAMAGE": "蓝球伤害",
 					"STAT_MELEE_DAMAGE": "近战伤害",
-					"STAT_MELEE_DAMAGE_PER_SECOND": "近战每秒伤害",,
+					"STAT_MELEE_DAMAGE_PER_SECOND": "近战每秒伤害",
 					"STAT_POISON_DPS": "毒素每秒平均伤害",
 					"STAT_POISON_DURATION": "毒素持续时间",
 					"STAT_PROJECTILE_DAMAGE": "葡萄伤害",
