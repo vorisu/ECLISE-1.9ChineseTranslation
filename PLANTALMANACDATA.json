@@ -5641,7 +5641,7 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "[STAT_AREA_VARIANLE]"
+						"ValueStringID": "[STAT_AREA_VARIABLE]"
 					}
 				],
 				"TypeName": "strawburst"
