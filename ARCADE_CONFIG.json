@@ -5,7 +5,7 @@
 		{
 			"objclass": "ArcadePropertySheet",
 			"aliases": [
-				"ArcadeConfig",
+				"ArcadeConfig"
 			],
 			"objdata": {
 				"ArcadeModes": [
@@ -17,10 +17,10 @@
 						"DisplayInArcadeMenu": true,
 						"EndlessLevel": {
 							"Level": {
-								"ID": "arcade/vasebreaker_endless",
+								"ID": "arcade/vasebreaker_endless"
 							},
 							"RewardPowerUp": "powerupvasebreakermove",
-							"RewardPowerUpAfterWave": 15,
+							"RewardPowerUpAfterWave": 15
 						},
 						"UnlockEndlessAfter": "vasebreaker_tutorial",
 						"LevelPacks": [
@@ -31,19 +31,19 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_tutorial1",
+										"ID": "arcade/vasebreaker_tutorial1"
 									},
 									{
-										"ID": "arcade/vasebreaker_tutorial2",
+										"ID": "arcade/vasebreaker_tutorial2"
 									},
 									{
-										"ID": "arcade/vasebreaker_tutorial3",
-									},
+										"ID": "arcade/vasebreaker_tutorial3"
+									}
 								],
 								"Reward": {
 									"Type": "PowerUp",
-									"ID": "powerupvasebreakerreveal",
-								},
+									"ID": "powerupvasebreakerreveal"
+								}
 							},
 							{
 								"ID": "vasebreaker_egypt_1",
@@ -53,19 +53,19 @@
 								"UnlockAfter": "vasebreaker_tutorial",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_egypt1",
+										"ID": "arcade/vasebreaker_egypt1"
 									},
 									{
-										"ID": "arcade/vasebreaker_egypt2",
+										"ID": "arcade/vasebreaker_egypt2"
 									},
 									{
-										"ID": "arcade/vasebreaker_egypt3",
-									},
+										"ID": "arcade/vasebreaker_egypt3"
+									}
 								],
 								"Reward": {
 									"Type": "PowerUp",
-									"ID": "powerupvasebreakerbutter",
-								},
+									"ID": "powerupvasebreakerbutter"
+								}
 							},
 							{
 								"ID": "vasebreaker_lostcity_1",
@@ -75,18 +75,18 @@
 								"UnlockAfter": "vasebreaker_egypt_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_lostcity1",
+										"ID": "arcade/vasebreaker_lostcity1"
 									},
 									{
-										"ID": "arcade/vasebreaker_lostcity2",
+										"ID": "arcade/vasebreaker_lostcity2"
 									},
 									{
-										"ID": "arcade/vasebreaker_lostcity3",
-									},
+										"ID": "arcade/vasebreaker_lostcity3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_dark_1",
@@ -96,18 +96,18 @@
 								"UnlockAfter": "vasebreaker_lostcity_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_dark1",
+										"ID": "arcade/vasebreaker_dark1"
 									},
 									{
-										"ID": "arcade/vasebreaker_dark2",
+										"ID": "arcade/vasebreaker_dark2"
 									},
 									{
-										"ID": "arcade/vasebreaker_dark3",
-									},
+										"ID": "arcade/vasebreaker_dark3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_pirate_1",
@@ -117,18 +117,18 @@
 								"UnlockAfter": "vasebreaker_dark_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_pirate1",
+										"ID": "arcade/vasebreaker_pirate1"
 									},
 									{
-										"ID": "arcade/vasebreaker_pirate2",
+										"ID": "arcade/vasebreaker_pirate2"
 									},
 									{
-										"ID": "arcade/vasebreaker_pirate3",
-									},
+										"ID": "arcade/vasebreaker_pirate3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_iceage_1",
@@ -138,18 +138,18 @@
 								"UnlockAfter": "vasebreaker_pirate_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_iceage1",
+										"ID": "arcade/vasebreaker_iceage1"
 									},
 									{
-										"ID": "arcade/vasebreaker_iceage2",
+										"ID": "arcade/vasebreaker_iceage2"
 									},
 									{
-										"ID": "arcade/vasebreaker_iceage3",
-									},
+										"ID": "arcade/vasebreaker_iceage3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_cowboy_1",
@@ -159,18 +159,18 @@
 								"UnlockAfter": "vasebreaker_iceage_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_cowboy1",
+										"ID": "arcade/vasebreaker_cowboy1"
 									},
 									{
-										"ID": "arcade/vasebreaker_cowboy2",
+										"ID": "arcade/vasebreaker_cowboy2"
 									},
 									{
-										"ID": "arcade/vasebreaker_cowboy3",
-									},
+										"ID": "arcade/vasebreaker_cowboy3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_beach_1",
@@ -180,18 +180,18 @@
 								"UnlockAfter": "vasebreaker_cowboy_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_beach1",
+										"ID": "arcade/vasebreaker_beach1"
 									},
 									{
-										"ID": "arcade/vasebreaker_beach2",
+										"ID": "arcade/vasebreaker_beach2"
 									},
 									{
-										"ID": "arcade/vasebreaker_beach3",
-									},
+										"ID": "arcade/vasebreaker_beach3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_dino_1",
@@ -201,18 +201,18 @@
 								"UnlockAfter": "vasebreaker_beach_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_dino1",
+										"ID": "arcade/vasebreaker_dino1"
 									},
 									{
-										"ID": "arcade/vasebreaker_dino2",
+										"ID": "arcade/vasebreaker_dino2"
 									},
 									{
-										"ID": "arcade/vasebreaker_dino3",
-									},
+										"ID": "arcade/vasebreaker_dino3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_future_1",
@@ -222,18 +222,18 @@
 								"UnlockAfter": "vasebreaker_dino_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_future1",
+										"ID": "arcade/vasebreaker_future1"
 									},
 									{
-										"ID": "arcade/vasebreaker_future2",
+										"ID": "arcade/vasebreaker_future2"
 									},
 									{
-										"ID": "arcade/vasebreaker_future3",
-									},
+										"ID": "arcade/vasebreaker_future3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_eighties_1",
@@ -243,34 +243,34 @@
 								"UnlockAfter": "vasebreaker_future_1",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_eighties1",
+										"ID": "arcade/vasebreaker_eighties1"
 									},
 									{
-										"ID": "arcade/vasebreaker_eighties2",
+										"ID": "arcade/vasebreaker_eighties2"
 									},
 									{
-										"ID": "arcade/vasebreaker_eighties3",
-									},
+										"ID": "arcade/vasebreaker_eighties3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "vasebreaker_sandbox",
 								"Toggles": [
-									"ArcadeTestPacks",
+									"ArcadeTestPacks"
 								],
 								"PackNameLocalizationKey": "[VASEBREAKER_SANDBOX]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "dev/vasebreaker_peapodtest",
-									},
-								],
-							},
-						],
+										"ID": "dev/vasebreaker_peapodtest"
+									}
+								]
+							}
+						]
 					},
 					{
 						"ID": "beghouled",
@@ -281,17 +281,17 @@
 						"EndlessLevel": {
 							"Comment": "THIS IS NOT ACTUALLY A THING",
 							"Level": {
-								"ID": "dev/beghouled_endless",
+								"ID": "dev/beghouled_endless"
 							},
 							"RewardPowerUp": "powerupvasebreakermove",
-							"RewardPowerUpAfterWave": 15,
+							"RewardPowerUpAfterWave": 15
 						},
 						"UnlockEndlessAfter": "beghouled_set1",
 						"LevelPacks": [
 							{
 								"ID": "vasebreaker_beach",
 								"Toggles": [
-									"VasebreakerBeach",
+									"VasebreakerBeach"
 								],
 								"PackNameLocalizationKey": "Beghouled",
 								"LayoutFile": "MiniGameLevelPack",
@@ -299,18 +299,18 @@
 								"UnlockAfter": "egypt10",
 								"Levels": [
 									{
-										"ID": "arcade/vasebreaker_beach1",
+										"ID": "arcade/vasebreaker_beach1"
 									},
 									{
-										"ID": "arcade/vasebreaker_beach2",
+										"ID": "arcade/vasebreaker_beach2"
 									},
 									{
-										"ID": "arcade/vasebreaker_beach3",
-									},
+										"ID": "arcade/vasebreaker_beach3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "beghouled_set1",
@@ -319,18 +319,18 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "dev/beghouled1",
+										"ID": "dev/beghouled1"
 									},
 									{
-										"ID": "dev/beghouled2",
+										"ID": "dev/beghouled2"
 									},
 									{
-										"ID": "dev/beghouled3",
-									},
+										"ID": "dev/beghouled3"
+									}
 								],
 								"Reward": {
-									"Type": "GiftBox",
-								},
+									"Type": "GiftBox"
+								}
 							},
 							{
 								"ID": "epicquest_beghouled_set1",
@@ -339,24 +339,24 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "challenge_levels/epicquest_beghouled_001",
+										"ID": "challenge_levels/epicquest_beghouled_001"
 									},
 									{
-										"ID": "challenge_levels/epicquest_beghouled_002",
+										"ID": "challenge_levels/epicquest_beghouled_002"
 									},
 									{
-										"ID": "challenge_levels/epicquest_beghouled_003",
+										"ID": "challenge_levels/epicquest_beghouled_003"
 									},
 									{
-										"ID": "challenge_levels/epicquest_beghouled_004",
+										"ID": "challenge_levels/epicquest_beghouled_004"
 									},
 									{
-										"ID": "challenge_levels/epicquest_beghouled_005",
+										"ID": "challenge_levels/epicquest_beghouled_005"
 									},
 									{
-										"ID": "challenge_levels/epicquest_beghouled_006",
-									},
-								],
+										"ID": "challenge_levels/epicquest_beghouled_006"
+									}
+								]
 							},
 							{
 								"ID": "epicquest_aloe",
@@ -365,9 +365,9 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "epicquest_aloe_08",
-									},
-								],
+										"ID": "epicquest_aloe_08"
+									}
+								]
 							},
 							{
 								"ID": "lod_beghouled",
@@ -376,48 +376,48 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "lod_273",
+										"ID": "lod_273"
 									},
 									{
-										"ID": "lod_274",
+										"ID": "lod_274"
 									},
 									{
-										"ID": "lod_275",
+										"ID": "lod_275"
 									},
 									{
-										"ID": "lod_276",
+										"ID": "lod_276"
 									},
 									{
-										"ID": "lod_277",
+										"ID": "lod_277"
 									},
 									{
-										"ID": "lod_278",
+										"ID": "lod_278"
 									},
 									{
-										"ID": "lod_279",
+										"ID": "lod_279"
 									},
 									{
-										"ID": "lod_280",
+										"ID": "lod_280"
 									},
 									{
-										"ID": "lod_281",
+										"ID": "lod_281"
 									},
 									{
-										"ID": "lod_282",
+										"ID": "lod_282"
 									},
 									{
-										"ID": "lod_283",
+										"ID": "lod_283"
 									},
 									{
-										"ID": "lod_284",
+										"ID": "lod_284"
 									},
 									{
-										"ID": "lod_285",
+										"ID": "lod_285"
 									},
 									{
-										"ID": "lod_286",
-									},
-								],
+										"ID": "lod_286"
+									}
+								]
 							},
 							{
 								"ID": "wasabi_whip_event_221",
@@ -426,18 +426,18 @@
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
 									{
-										"ID": "lod_221",
+										"ID": "lod_221"
 									},
 									{
-										"ID": "lod_222",
+										"ID": "lod_222"
 									},
 									{
-										"ID": "lod_223",
-									},
-								],
-							},
-						],
-					},
+										"ID": "lod_223"
+									}
+								]
+							}
+						]
+					}
 				],
 				"PowerUpCollections": [
 					{
@@ -450,7 +450,7 @@
 								"GameFeature": "feature_powerup_vasebreaker_reveal",
 								"NameLocalizationKey": "[POWERUP_VASEBREAKER_REVEAL]",
 								"DescriptionLocalizationKey": "[POWERUP_VASEBREAKER_REVEAL_DESCRIPTION]",
-								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_REVEAL_UNLOCK]",
+								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_REVEAL_UNLOCK]"
 							},
 							{
 								"ID": "powerupvasebreakerbutter",
@@ -459,7 +459,7 @@
 								"GameFeature": "feature_powerup_vasebreaker_butter",
 								"NameLocalizationKey": "[POWERUP_VASEBREAKER_BUTTER]",
 								"DescriptionLocalizationKey": "[POWERUP_VASEBREAKER_BUTTER_DESCRIPTION]",
-								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_BUTTER_UNLOCK]",
+								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_BUTTER_UNLOCK]"
 							},
 							{
 								"ID": "powerupvasebreakermove",
@@ -468,9 +468,9 @@
 								"GameFeature": "feature_powerup_vasebreaker_move",
 								"NameLocalizationKey": "[POWERUP_VASEBREAKER_MOVE]",
 								"DescriptionLocalizationKey": "[POWERUP_VASEBREAKER_MOVE_DESCRIPTION]",
-								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_MOVE_UNLOCK]",
-							},
-						],
+								"UnlockHintLocalizationKey": "[POWERUP_VASEBREAKER_MOVE_UNLOCK]"
+							}
+						]
 					},
 					{
 						"ID": "beghouled_powerups",
@@ -481,7 +481,7 @@
 								"DownImage": "IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHUFFLE_DOWN",
 								"GameFeature": "feature_powerup_beghouled_shuffle",
 								"NameLocalizationKey": "[POWERUP_BEGHOULED_SHUFFLE]",
-								"DescriptionLocalizationKey": "[POWERUP_BEGHOULED_SHUFFLE_DESCRIPTION]",
+								"DescriptionLocalizationKey": "[POWERUP_BEGHOULED_SHUFFLE_DESCRIPTION]"
 							},
 							{
 								"ID": "powerupbeghouledshovel",
@@ -489,7 +489,7 @@
 								"DownImage": "IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHOVEL_DOWN",
 								"GameFeature": "feature_powerup_beghouled_shovel",
 								"NameLocalizationKey": "[POWERUP_BEGHOULED_SHOVEL]",
-								"DescriptionLocalizationKey": "[POWERUP_BEGHOULED_SHOVEL_DESCRIPTION]",
+								"DescriptionLocalizationKey": "[POWERUP_BEGHOULED_SHOVEL_DESCRIPTION]"
 							},
 							{
 								"ID": "powerupbeghouledwizardfinger",
@@ -497,12 +497,12 @@
 								"DownImage": "IMAGE_UI_POWERUPS_POWERUP_BEGHOULED_SHOCK_DOWN",
 								"GameFeature": "feature_powerup_beghouled_wizardfinger",
 								"NameLocalizationKey": "[POWERUP_WIZARDFINGER]",
-								"DescriptionLocalizationKey": "[POWERUP_WIZARDFINGER_DESCRIPTION]",
-							},
-						],
-					},
-				],
-			},
-		},
-	],
+								"DescriptionLocalizationKey": "[POWERUP_WIZARDFINGER_DESCRIPTION]"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
 }
