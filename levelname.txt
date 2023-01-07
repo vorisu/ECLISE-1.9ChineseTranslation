@@ -34,18 +34,6 @@ Beach19.json
 Beach2.json
 "Name": ">7-2: Unstable Terrain",
 
-Beach22.json
-"Name": ">[BEACH_LEVEL_NAME]",
-
-Beach23.json
-"Name": ">[BEACH_LEVEL_NAME]",
-
-Beach25.json
-"Name": ">[BEACH_LEVEL_NAME]",
-
-Beach28.json
-"Name": ">[BEACH_LEVEL_NAME]",
-
 Beach4.json
 "Name": ">7-4: Flooded Area",
 
@@ -204,27 +192,6 @@ Cowboy18.json
 
 Cowboy2.json
 "Name": ">6-2: Backbite",
-
-Cowboy21.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy23.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy26.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy27.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy28.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy29.json
-"Name": ">[WEST_LEVEL_NAME]",
-
-Cowboy30.json
-"Name": ">[WEST_LEVEL_NAME]",
 
 Cowboy4.json
 "Name": ">6-4: Dancing Dynasty",
@@ -441,33 +408,6 @@ Dark17.json
 
 Dark2.json
 "Name": ">3-2: Dawned Light",
-
-Dark21.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark22.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark23.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark24.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark25.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark26.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark27.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark28.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
-
-Dark29.json
-"Name": ">[DARKAGES_LEVEL_NAME]",
 
 Dark3.json
 "Name": ">3-3: Brave at the Grave",
@@ -708,27 +648,6 @@ Dino2.json
 
 Dino20.json
 "Name": ">18-10: Dinoland",
-
-Dino21.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino23.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino24.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino25.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino26.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino28.json
-"Name": ">[DINO_LEVEL_NAME]",
-
-Dino30.json
-"Name": ">[DINO_LEVEL_NAME]",
 
 Dino5.json
 "Name": ">8-5: Elders' Playground",
@@ -1111,33 +1030,6 @@ Eighties2.json
 Eighties20.json
 "Name": ">20-10: Taking the Big Stage",
 
-Eighties21.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties22.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties23.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties25.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties26.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties27.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties28.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties29.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
-Eighties30.json
-"Name": ">[EIGHTIES_LEVEL_NAME]",
-
 Eighties4.json
 "Name": ">10-4: Punk Palace",
 
@@ -1342,29 +1234,8 @@ Future17.json
 Future19.json
 "Name": ">19-9: Techno Gen",
 
-Future21.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
-Future23.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
-Future26.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
-Future27.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
-Future28.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
-Future29.json
-"Name": ">[FUTURE_LEVEL_NAME]",
-
 Future3.json
 "Name": ">9-3: Augmented Protection",
-
-Future30.json
-"Name": ">[FUTURE_LEVEL_NAME]",
 
 Future5.json
 "Name": ">9-5: Heavy Roadblockers",
@@ -1422,18 +1293,6 @@ Iceage18.json
 
 Iceage2.json
 "Name": ">5-2: Freezervation",
-
-Iceage22.json
-"Name": ">[ICEAGE_LEVEL_NAME]",
-
-Iceage23.json
-"Name": ">[ICEAGE_LEVEL_NAME]",
-
-Iceage24.json
-"Name": ">[ICEAGE_LEVEL_NAME]",
-
-Iceage26.json
-"Name": ">[ICEAGE_LEVEL_NAME]",
 
 Iceage4.json
 "Name": ">5-4: Hunting Season",
@@ -2020,23 +1879,8 @@ Pirate17.json
 Pirate2.json
 "Name": ">4-2: Swifty Bucklers",
 
-Pirate21.json
-"Name": ">[PIRATE_LEVEL_NAME]",
-
-Pirate23.json
-"Name": ">[PIRATE_LEVEL_NAME]",
-
-Pirate26.json
-"Name": ">[PIRATE_LEVEL_NAME]",
-
-Pirate28.json
-"Name": ">[PIRATE_LEVEL_NAME]",
-
 Pirate3.json
 "Name": ">4-3: Bucket Ballete",
-
-Pirate30.json
-"Name": ">[PIRATE_LEVEL_NAME]",
 
 Pirate5.json
 "Name": ">4-5: Pea For Three",
