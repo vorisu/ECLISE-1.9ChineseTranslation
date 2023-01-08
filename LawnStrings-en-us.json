@@ -65,7 +65,7 @@
 					"ADVICE_ENOUGH_SUN": "太棒了! 你已经为你的下一株植物收集了足够的阳光!",
 					"ADVICE_ESCAPEROOT_CANT_PLANT_HERE": "逃脱树根不能交换到不能种植的地方.",
 					"ADVICE_ESCAPEROOT_CANT_SWAP_AFFECTED_PLANTS": "逃脱树根不能与被控制的植物交换.",
-					"ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS": "逃脱树根不能与正在开大的植物交换.",
+					"ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS": "逃脱树根不能与使用了叶绿素的植物交换.",
 					"ADVICE_ESCAPEROOT_CANT_SWAP_THIS_PLANT": "逃脱树根不能与这个植物交换.",
 					"ADVICE_GET_MORE_STARS": "More Stars are unlocked! Replay levels to get them!",
 					"ADVICE_GOTO_ALMANAC": "看看图鉴!",
