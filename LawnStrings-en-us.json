@@ -3330,6 +3330,8 @@
 					"QUEST_NAME_42": "解锁训练模式! ",
 					"QUEST_NAME_43": "解锁社区关卡! ",
 					"QUEST_NAME_44": "解锁迷你游戏! ",
+					"QUEST_NAME_SECRET": "隐藏关",
+					"QUEST_DESC_SECRET": "完成这个艰巨的挑战来获得一个新植物!",
 					"QUEST_ONE_STEP_LEFT_LABEL": "最后一关!",
 					"QUEST_ONE_ZOMBIE_LEFT_LABEL": "{STEP_COUNT} zombie remaining!",
 					"QUEST_PLAY_LABEL": "游玩",
