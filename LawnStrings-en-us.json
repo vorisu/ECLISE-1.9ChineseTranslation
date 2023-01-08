@@ -3347,7 +3347,7 @@
 					"QUEST_RECYCLE_BUTTON_CONFIRMATION_HEADER": "Are you sure?",
 					"QUEST_RECYCLE_BUTTON_CONFIRMATION_TEXT": "If you REFRESH this quest you will lose any progress you have made on it, and replace it with a new quest. You may refresh {x} times each day.",
 					"QUEST_REVEAL_HEADER": "You have a new quest, try to show it how awesome you are by beating it!",
-					"QUEST_REWARD_LABEL": "Rewards",
+					"QUEST_REWARD_LABEL": "奖励",
 					"QUEST_SKIP_LABEL": "SKIP",
 					"QUEST_STEP_LABEL": "Step: ",
 					"QUEST_TAB_LABEL_CHALLENGE": "挑战关卡",
