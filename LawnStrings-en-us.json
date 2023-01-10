@@ -212,7 +212,7 @@
 					"ARCADE_WAVE_CLEARED": "第 {Number} 波完成!",
 					"ARCADE_WAVE_COUNT": "第 {Number} 波",
 					"ARE_YOU_SURE": "你确定吗?",
-					"ARMAMINT": "小麦",
+					"ARMAMINT": "小麦投手",
 					"ARMAMINT_DESCRIPTION": "{KEYWORD}特点: {STAT}可以种在水上\r\n\r\n{FLAVOR}小时候就被诊断为远视眼, 小麦在阅读书籍和与年长的投手兄弟玩接球游戏时遇到了一些困难——这是一种遗传病. 由于它眼睛的问题, 它想戴眼镜, 但它害怕它的兄弟笑它是个书呆子.",
 					"ARMAMINT_DESCRIPTION_HEADER": "小麦向5格前的目标发射8发子弹.",
 					"ARMAMINT_TOOLTIP": "向5格前的目标投射子弹",
