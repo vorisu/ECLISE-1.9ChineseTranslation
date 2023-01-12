@@ -715,7 +715,7 @@
 					"EMPEA_DESCRIPTION_HEADER": "脉冲黄桃使一片范围内的机甲瘫痪, 并定身那些速度较快的僵尸.",
 					"EMPEA_TOOLTIP": "使一片范围内的机甲瘫痪, 并定身那些速度较快的僵尸",
 					"ENCHANTMINT": "法力薄荷",
-					"ENCHANTMINT_DESCRIPTION": {KEYWORD}法力薄荷家族植物:\r\n{STAT}超能花菜\r\n{STAT}魔术番红花\r\n{STAT}催眠蘑菇\r\n{STAT}变身洋芋\r\n{STAT}复活胡萝卜\r\n{STAT}能量百合\r\n{STAT}缩小紫罗兰\r\n{STAT}地砖芜菁\r\n{STAT}金缕梅\r\n{STAT}腐尸豆荚\r\n\r\n\r\n{FLAVOR}法力薄荷说: '我超喜欢看音乐剧!' 虽然这好像和他的魔力, 技能或是战术之类的没有什么关系, 但他就是喜欢, 尤其是里面的那些音乐.{STAT}",
+					"ENCHANTMINT_DESCRIPTION": "{KEYWORD}法力薄荷家族植物:\r\n{STAT}超能花菜\r\n{STAT}魔术番红花\r\n{STAT}催眠蘑菇\r\n{STAT}变身洋芋\r\n{STAT}复活胡萝卜\r\n{STAT}能量百合\r\n{STAT}缩小紫罗兰\r\n{STAT}地砖芜菁\r\n{STAT}金缕梅\r\n{STAT}腐尸豆荚\r\n\r\n\r\n{FLAVOR}法力薄荷说: '我超喜欢看音乐剧!' 虽然这好像和他的魔力, 技能或是战术之类的没有什么关系, 但他就是喜欢, 尤其是里面的那些音乐.{STAT}",
 					"ENCHANTMINT_DESCRIPTION_HEADER": "法力薄荷可以随机催眠一些僵尸, 并暂时加强草坪上所有的法力薄荷家族植物.",
 					"ENCHANTMINT_TOOLTIP": "强化魔法植物",
 					"ENDURIAN": "榴莲",
